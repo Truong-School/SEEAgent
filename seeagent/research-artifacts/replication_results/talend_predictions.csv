@@ -1,0 +1,16 @@
+task,seeagent_ft,seeagent_base,finese,gpt2sp,deepse,storypoint
+labels of Analysis subcategory are improperly handled,5,8,3.4473035,10.059666,3.974691,5.0
+Checking datamart will get error on Dev environment console,5,5,3.297041,8.808241,6.32648,8.0
+remove the dialog when change the name of connection and change refresh mode.,8,8,3.815113,10.190605,4.9832506,8.0
+Unreadable parameters in UDI,5,5,3.1857207,9.316023,2.3073382,3.0
+add generate job menu in the result chart of column set analysis,8,8,3.2413983,11.225487,4.333557,5.0
+Code refactoring 2: the save method of sql source file & jrxml tempate - Do it only on trunk (5.2),8,8,3.6216545,7.442358,9.490113,13.0
+for mssql all the catalogs get the same schemas when  doesn't set the database filter,8,8,3.0623376,4.5392714,5.7012444,13.0
+TableSelectionDialog can not dependency DQRepositoryNode.,8,5,3.6469193,9.454016,3.5643597,5.0
+the result page should better change the catalog name to certain UDI name,8,5,3.6375093,8.823082,5.8053827,1.0
+so many warning show in error log when reload the connection setting,5,8,3.218052,14.57277,4.7655253,3.0
+"for mdm analysis in java engine can not get the row count, null count  successfully for record which contains null value.",5,8,3.4344442,8.468889,3.6928892,13.0
+Allow scroll down and copy/paste of the error in tmatchgroup,8,8,3.7161043,13.2815695,7.823907,1.0
+Remove two columns in frequency tables,1,8,3.431652,9.463592,3.8762918,8.0
+handle org.talend.dqdemos,8,8,3.5251083,9.38269,3.833656,3.0
+Create a project to check the integrity of the DQ datamart,40,80,3.3953893,17.086538,3.760385,20.0

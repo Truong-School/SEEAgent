@@ -1,0 +1,84 @@
+task,seeagent_ft,seeagent_base,finese,gpt2sp,deepse,storypoint
+Health checks should use a general mechanism to enter namespaces of the task.,3,8,2.5144756,3.9945138,2.9907246,3.0
+Consider adding a timeout to Docker executor task launch,3,8,2.9084268,4.082465,2.8730435,5.0
+Add missing fields to agent v1 operator API,3,8,3.0951173,7.170089,2.837275,2.0
+Leverage helper functions to reduce boilerplate code related to v1 API.,3,8,2.987826,6.2336864,3.8107262,3.0
+Look for unnecessary 'Clock::resume()' at the end of tests,3,2,2.8221078,2.574958,2.789496,2.0
+Non-leading master should reply to some API requests,5,8,2.922147,5.331354,3.0208316,3.0
+Support multiple health checks per task.,5,13,2.8584986,6.2117677,5.058957,8.0
+Change the auto backend logic of backing filesystem from exclusive to inclusive.,3,8,2.8860726,4.814885,3.7114797,3.0
+Design doc for creating user namespaces inside containers,5,8,2.7354143,5.6947985,3.0192318,5.0
+Allow the KillPolicy to specify a signal,3,8,2.5120928,4.380968,3.2304826,3.0
+Allow the KillPolicy to specify a command,3,8,2.4844115,3.5691009,3.272544,5.0
+"ns::clone should spawn process, which is a direct child",3,8,2.680578,3.0625968,2.6417027,8.0
+Improve completed task/framework garbage collection,3,80,2.9098797,4.503194,2.5776439,5.0
+Dump the contents of the sandbox when a test fails,3,8,2.5419166,3.0781753,3.103084,3.0
+Provide a generic HTTP driver abstraction,8,8,2.680302,6.065138,4.5718827,5.0
+Add more filtering options for unversioned operator API,3,8,3.067219,6.62512,3.0419993,3.0
+Stop using EXIT() in master/agent initialization code,3,8,3.1227367,3.6723764,3.046452,3.0
+Add support for incremental gzip compression.,5,8,2.9011548,5.534687,4.6840305,3.0
+Add upgrade testing to the ASF CI,3,8,2.4980767,1.4793013,3.0419116,5.0
+Move some protobuf-related helpers into public headers,2,5,2.8461897,2.835743,2.3421707,3.0
+Add support for 'docker image inspect' in our docker abstraction.,3,8,2.6513247,3.1876307,4.100025,5.0
+Enable the upgrade test script to run multiple masters/agents,3,8,2.6931067,5.4412313,3.192515,3.0
+Report per-container metrics from host egress filter,3,8,2.6863816,4.0181913,2.7705898,1.0
+Metric for cpu scheduling latency from all components,5,80,2.68772,6.081357,3.490655,8.0
+Move implicit authorization into the authorizer,3,8,2.7802312,4.4435406,2.6109133,5.0
+Docker executor does not support general checks.,3,8,2.8264086,3.7204027,4.155995,5.0
+Refactor the clone option to subprocess.,3,8,2.8005476,4.839405,3.3302426,2.0
+"Introduce ""global"" decision policy for unhealthy tasks.",5,8,2.7253277,5.278708,3.3872886,8.0
+Support health policies in health checks.,5,8,2.830166,6.4083138,4.8230367,8.0
+Launch subprocesses associated with specified namespaces.,5,8,2.8154712,4.758493,3.2941804,8.0
+Scheduler library's reconnection logic should be teardown-aware,3,8,2.9131484,3.3963227,2.2193904,3.0
+Show framework info in /state and /frameworks for frameworks that have orphan tasks,3,8,2.7549486,5.100202,3.0724845,3.0
+"Add abstractions of ""owned"" and ""shared"" file descriptors to libprocess.",5,8,2.831249,3.0131478,3.082974,3.0
+Clean up `FlagsBase::add`,1,5,3.0392888,2.1651254,3.7309208,3.0
+Allow Docker v1 ImageManifests to be parsed from the output of `docker inspect`,3,8,2.862531,2.182048,3.1334891,3.0
+Enhance DispatchEvent to include demangled method name.,3,8,2.92222,5.558809,2.6453547,5.0
+Add synchronous validation for all types of Calls.,5,8,2.9167452,4.768669,3.191547,5.0
+Use snake casing for flag names consistently,2,8,2.67358,3.3424141,2.7875247,1.0
+Consider allowing the libprocess caller an option to not set CLOEXEC on libprocess sockets,3,8,2.6748822,2.9047203,2.7305908,3.0
+Example frameworks should allow setting failover timeout,3,8,2.7650611,5.3129854,4.218912,2.0
+Enable `Option` to handle string literals gracefully,2,8,2.8260465,2.6248894,2.604332,2.0
+"Add ""chown"" option to CommandInfo.URI",1,8,2.9263616,2.4658015,2.858292,2.0
+Operator endpoints should accept a principal without HTTP authentication,3,8,2.8008435,4.224739,2.7479439,3.0
+Expose TaskStatus source & reason in master's '/state' output,3,8,3.0582614,1.9284704,2.8137918,1.0
+Add explicit upgrade instructions to the docs,2,8,2.6731696,1.661206,3.0419116,1.0
+Update Master to send revocable resources in separate offers,3,8,2.673763,4.0587955,2.8296418,3.0
+Automatically generate command-line flag documentation,5,8,2.916857,3.5636687,3.085692,3.0
+Add an abstraction to manage the life cycle of file descriptors.,5,8,2.5920904,3.4477243,2.8966732,5.0
+Inform framework when rate limiting is active,2,8,2.6466427,4.5973682,3.2521477,3.0
+Enable mesos-reviewbot project on jenkins to use SSL,3,8,2.683121,4.769784,2.9670548,3.0
+Introduce an Either type.,5,5,2.903736,5.603977,3.224146,5.0
+Rename ResourceStatistics for containers,3,8,2.6443603,5.988413,2.8891997,8.0
+Cleanup stout build setup,1,5,2.7220142,4.177579,2.582224,3.0
+Support pre-fetching images,5,8,2.8869889,4.075555,5.107093,5.0
+Have fine grained control over OpenSSL dependency.,3,80,2.9690595,5.3673387,4.406093,3.0
+Only send ShutdownFrameworkMessage to agents associated with framework.,1,5,2.882671,5.784127,2.4883475,1.0
+Deprecate Role::resources in favor of Role::allocated and Role::offered.,5,8,2.6721115,3.6365237,2.2253056,2.0
+Allow for optionally unbundled glog from CMake builds. ,3,8,3.0159657,3.266232,3.9929223,2.0
+Allow for optionally unbundled protobuf from CMake builds.,3,8,3.019883,4.4209824,4.145403,2.0
+Rework FindPackageHelper to allow for locating xxx_ROOT_DIR.,3,8,2.8961208,3.4521742,3.107388,2.0
+Allow for optionally unbundled ZooKeeper from CMake builds.,3,8,2.9666712,5.03219,4.145403,2.0
+"Refactor the ""_ROOT_DIR"" logic into FindPackageHelper for CMake.",3,8,2.7667663,3.1732216,2.9563537,2.0
+Refactor master's 'updateOperation()' to not accept an update message,3,5,3.0314937,2.782441,2.200253,3.0
+Command health checks ignore some fields from CommandInfo.,3,8,2.7801611,3.5831409,3.1828756,3.0
+Disallow empty string roles,3,5,2.7725785,4.174947,2.5272737,3.0
+Auto-generate protos for stout tests,1,8,2.711649,3.9149516,3.4383497,2.0
+Remove plain text Credential format (after deprecation cycle),3,8,2.8377264,1.9224198,2.9303885,3.0
+Follow Google Style Guide for header file include order completely.,2,2,2.9704926,4.4935803,3.1480398,5.0
+Standardize use of Path ,1,8,2.75607,3.7284927,2.311977,3.0
+Expose Check and HealthCheck information on Mesos HTTP endpoints.,3,8,2.5784643,3.3613467,3.7775817,2.0
+Delimiters in endpoint names are inconsistent across mesos components.,3,5,2.8868124,4.1511497,2.61279,3.0
+Linux launcher may report `Failed to clone: Success` on error.,3,5,2.960389,2.9190488,2.865654,1.0
+Move SASL based CRAM-MD5 authentication out of libmesos.,3,8,2.8335214,3.9391315,3.319604,8.0
+Expose metrics and gauges for fetcher cache usage and hit rate,2,8,2.571439,3.0312672,3.7684526,2.0
+Consolidate functionality in stout/net and process/http,5,80,3.1006782,3.4040205,2.6949706,8.0
+Use `Connection` abstraction to compare stale connections in scheduler library.,3,8,2.8544862,3.9861357,2.7627897,3.0
+Fetch checksum files to inform fetcher cache use,2,5,2.7429974,2.3180237,2.8072782,3.0
+HTTP auth for CLI,3,5,2.8167176,4.9128666,3.5578833,3.0
+Refactor the plain JSON parsing in the docker containerizer,3,8,2.7671993,3.5024083,2.7546616,3.0
+Add `EXPECT_NO_FUTURE_DISPATCHES` macro for tests.,3,2,2.7029288,1.9754698,2.9806175,1.0
+Agent logs should be accesible with the `/agent/log` path.,3,5,2.6570773,3.1209092,2.7728395,1.0
+Add '{' on newline for function declarations in style checker,1,8,2.8948195,1.4063525,2.586678,1.0
+Use `std::quoted` for strings in error messages,1,2,2.8098457,2.3275015,2.8295274,3.0

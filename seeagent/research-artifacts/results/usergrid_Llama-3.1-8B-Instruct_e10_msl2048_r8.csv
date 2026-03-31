@@ -1,0 +1,221 @@
+task_id,correct_answer,llm_answer,llm_response,matched
+Launcher url points to Apigee,3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Launcher url points to Apigee<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+"Usergrid Launcher throws exception if ""initialize database"" unchecked",3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Usergrid Launcher throws exception if ""initialize database"" unchecked<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+Some required fields should not be required on the users page of the Admin Portal,3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Some required fields should not be required on the users page of the Admin Portal<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+Mismatch application metadata ( APPLICATIONS_CF and Management Apps ),3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Mismatch application metadata ( APPLICATIONS_CF and Management Apps )<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+Fresh Admin user token won't work on /management/users/me,3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Fresh Admin user token won't work on /management/users/me<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+Improve Exception when Query String cannot be parsed,3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Improve Exception when Query String cannot be parsed<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+Admin Portal - connections listing on data page throws error,3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Admin Portal - connections listing on data page throws error<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+"Admin Portal - ${user} permissions not allowed, but they should be",3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Admin Portal - ${user} permissions not allowed, but they should be<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+Image assets not displaying correctly in Safari,5.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Image assets not displaying correctly in Safari<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+Broken link to contribution page,3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Broken link to contribution page<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+UG 1.0 bug for DB setup with separate locks keyspace,3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+UG 1.0 bug for DB setup with separate locks keyspace<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+Column Querying Issues,3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Column Querying Issues<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+"Convert Usergrid docs & Update for 2.0: REST end-points, Models and Reference",5.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Convert Usergrid docs & Update for 2.0: REST end-points, Models and Reference<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+Convert Usergrid docs & Update for 2.0: Usergrid SDKs,5.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Convert Usergrid docs & Update for 2.0: Usergrid SDKs<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+select (filter) queries with dot notation don't return results,3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+select (filter) queries with dot notation don't return results<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+NPE running (resuming?) reindex with no payload in the request,3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+NPE running (resuming?) reindex with no payload in the request<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+POST to /events returns entity that does not exist,3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+POST to /events returns entity that does not exist<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+Refactor asset aws sdk class,2.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Refactor asset aws sdk class<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+Offer an option to delete all inbound and/or outbound connections on entity delete,3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Offer an option to delete all inbound and/or outbound connections on entity delete<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False
+"/collection/id/connected/* paths should either return an entity, an empty set or a 404",3.0,3,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+/collection/id/connected/* paths should either return an entity, an empty set or a 404<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 3<|eot_id|>",False

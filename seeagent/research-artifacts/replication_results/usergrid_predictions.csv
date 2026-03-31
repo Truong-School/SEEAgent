@@ -1,0 +1,21 @@
+task,seeagent_ft,seeagent_base,finese,gpt2sp,deepse,storypoint
+Launcher url points to Apigee,3,5,1.3870776,3.0818727,2.5190303,3.0
+"Usergrid Launcher throws exception if ""initialize database"" unchecked",3,8,1.4189181,2.9378839,2.3191187,3.0
+Some required fields should not be required on the users page of the Admin Portal,3,8,1.4113343,2.9225526,2.8140557,3.0
+Mismatch application metadata ( APPLICATIONS_CF and Management Apps ),3,8,1.382268,2.949546,3.2126892,3.0
+Fresh Admin user token won't work on /management/users/me,3,8,1.3953357,3.155027,2.8364751,3.0
+Improve Exception when Query String cannot be parsed,3,8,1.4514837,3.1557117,2.8994615,3.0
+Admin Portal - connections listing on data page throws error,3,5,1.4311604,3.1293807,2.8432086,3.0
+"Admin Portal - ${user} permissions not allowed, but they should be",3,8,1.4332662,2.8520267,2.8414993,3.0
+Image assets not displaying correctly in Safari,3,8,1.3832455,3.1862142,3.0124896,5.0
+Broken link to contribution page,3,2,1.5375118,3.021345,2.8894496,3.0
+UG 1.0 bug for DB setup with separate locks keyspace,3,8,1.4939466,3.2767835,2.792828,3.0
+Column Querying Issues,3,8,1.5291088,3.3274903,2.9983788,3.0
+"Convert Usergrid docs & Update for 2.0: REST end-points, Models and Reference",3,80,1.3641644,3.1193001,1.9802811,5.0
+Convert Usergrid docs & Update for 2.0: Usergrid SDKs,3,80,1.3675675,2.998509,2.1080508,5.0
+select (filter) queries with dot notation don't return results,3,8,1.4653258,3.2987614,2.920474,3.0
+NPE running (resuming?) reindex with no payload in the request,3,5,1.4147911,3.013608,3.090171,3.0
+POST to /events returns entity that does not exist,3,8,1.4304612,3.2453482,2.7259738,3.0
+Refactor asset aws sdk class,3,8,1.3850267,3.029582,3.1678052,2.0
+Offer an option to delete all inbound and/or outbound connections on entity delete,3,8,1.4395993,3.089362,2.7089953,3.0
+"/collection/id/connected/* paths should either return an entity, an empty set or a 404",3,8,1.3647697,3.0848413,2.9017017,3.0

@@ -1,0 +1,865 @@
+task,seeagent_ft,seeagent_base,finese,gpt2sp,deepse,storypoint
+First-order reconciliation of internal service architecture with high-level services,10,8,1.7494993,4.029706,4.3258495,14.0
+Install supporting services,3,8,1.910709,2.821866,2.6536226,12.0
+Design transfer mechanism for DR tool.,6,8,2.0461113,10.262294,4.2632294,5.0
+Monitor Globus transfer tasks,6,8,1.9638791,4.4180956,5.6809645,14.0
+Process refinement and improvement.,10,5,1.9810652,30.595806,4.238169,10.0
+Service Management & Emergent Work  (December) ,3,8,1.7995015,7.138666,12.809082,5.0
+Change SQuaSH to store JSON as a BLOB/TEXT in MariaDB 10.1+,6,8,1.8271197,2.984388,2.1274483,2.8
+DM-wide replanning - December: further development of NCSA WBS,20,80,1.7269741,6.2839184,4.150719,80.0
+"Ops planning - December: assess reviewers feedback, consider descope options ",3,8,1.7582828,2.5667,4.549213,10.0
+Commissioning planning - December: contributions to commissioning plan document,3,5,1.7911206,3.2806227,3.7851577,10.0
+Ops planning - January,3,8,1.8179175,2.8792183,5.8739443,10.0
+Commissioning planning - January,1,8,1.8212808,3.106332,5.8739443,12.0
+DM-wide replanning - January,10,13,1.8993218,4.1565285,4.192314,60.0
+migrate squash production DB to MariaDB 10.1.x,4,80,1.9582957,3.8934343,6.2278314,0.5
+purge unused jenkins plugins / fully manage all plugins,2,8,1.9703251,0.816688,5.524704,2.333
+jenkins master unstable,0,5,1.8433725,0.1690383,6.6141644,2.5
+Remove dependency on CAT package and make database setup optional,6,8,1.8851036,0.60804933,1.8742809,4.0
+ctrl_stats fails tests in 2017,1,5,1.9935553,1.0757858,1.818408,1.0
+ctrl_stats doesn't calculate year to next year progress properly,1,8,1.7919046,0.6432542,1.8442367,8.0
+Use an existing qserv_run_dir with a new Qserv instance/binary,3,8,1.8499352,1.1166508,2.0674314,4.0
+evaluate creation / installation of eups distrib 'tarball' packages,4,8,1.7370155,1.2929847,3.1194668,1.3330000000000002
+Add TE1 and TE2 KPMs to validate_drp using code developed in DM-3040,8,8,1.7850604,5.8807936,1.9889528,10.0
+Plot the data flow of a jointcal example,6,8,1.9172962,10.6326685,5.3723392,3.0
+Plan Prototype Warped Image Comparision,3,80,1.9763998,8.055882,12.303572,10.0
+Update developer guide to describe package build directory,1,5,2.0628378,-0.21114758,1.9468869,1.0
+Update eupspkg to support _build/ directory,1,8,2.0689144,-0.27436027,2.2090058,4.0
+Update existing packages to reflect _build/ directory and .gitignore entries,0,8,1.8492872,0.25073063,2.4345326,2.0
+Original plot does not abort and over writes active plot,2,8,1.9464432,1.5006995,2.896151,5.0
+Change warpImage and warpExposure to take shared_ptrs,1,8,1.822612,1.4673183,2.0010018,2.0
+Create NMF deblender plugin,8,80,2.0607064,3.2134175,4.812751,16.0
+fix lsst-sims installation instructions on pipelines.lsst.io,0,8,1.8693782,0.2826719,1.9694028,0.2
+Set darktime in makeRawVisitInfo,1,5,2.046482,1.1975105,3.216395,0.5
+Update singleFrameDriver following changes to reference catalogs,2,8,1.9974773,1.392174,2.0828793,0.5
+Extend Alert Production prototype with new index type,4,8,2.04556,7.953031,8.10577,8.0
+Performance plots with AP prototype on SSD,8,8,1.9119393,11.69654,9.054928,4.0
+Documenting using emoji reactions in GitHub code reviews,0,8,1.9148699,2.2108197,3.4883308,0.5
+Create deprecation decorator and doc update,1,8,1.9244016,1.9965439,5.927437,4.0
+Add deprecation procedure to dev guide,1,5,1.9690248,0.7180231,5.440512,1.0
+Small bug in describing the usesimplePsf config var for charImgTask ,0,2,1.9369154,2.3900146,4.817132,1.0
+Create cookiecutter template for api.lsst.codes microservices,3,80,1.908548,2.8989282,3.687778,3.0
+obs_cfht table file uses envAppend,1,5,1.8902651,2.2655413,2.628993,1.0
+Wrap new Footprints with pybind11 and create python unit test,5,8,1.7753893,4.3207264,3.5804753,8.0
+evaluate creation / installation of eups distrib 'tarball' packages #2,3,8,1.9334626,1.2350873,3.0139694,3.25
+Implement bokeh apps helper methods to read data from the SQUASH API,4,8,1.7905211,4.3009458,6.135588,6.4
+BaseSourceSelector._isBad() should use Keys instead of string fields,1,5,1.7758213,1.4244518,1.7611425,2.0
+writing jointcal output is slow due to dataRef lookup,6,8,1.8470191,4.3110075,1.9375805,2.0
+unset BASH_ENV in newinstall.sh or surrounding instructions,0,2,1.8973701,0.052265722,2.15337,1.0
+Revise Python Style Guide for RFC-107 (79 character docstring lengths),0,8,1.9357702,1.4681685,4.541729,1.0
+Incorrect binning in overscan spline interpolation,4,8,1.9192253,6.765728,3.5431044,0.5
+Delete Crop.java and CropTest.java ,1,2,1.8143187,2.6103458,7.1292706,0.2
+Automatic Mask overlays,6,80,1.9950285,9.241985,7.418219,10.0
+Test/implement which badFlags are appropriate for matcherSourceSelector,2,8,1.7723955,2.0359297,8.92427,4.0
+Transfer content from SWUG pages to PLI (pipelines.lsst.io),5,13,1.6371961,5.6497416,1.9200479,10.0
+SQL constraint catalog search doesn't work,2,8,1.9596084,3.2508392,2.0250018,4.0
+wmgr database connection leak,2,5,2.134388,3.8764703,6.594724,2.0
+Fix plotAMx display of spec,1,8,1.850104,1.5277001,1.9534718,0.1
+Bootstrapper microservice,14,80,2.099847,5.0971675,7.418219,8.0
+Rebase pybind11 branch onto latest master,2,8,2.0793996,0.8292679,3.125753,2.0
+Open up LSST software mailing lists,0,8,2.058582,4.1101093,3.2574208,1.0
+Publish Winter 2014 binaries,3,5,1.9198667,1.9452375,7.418219,3.0
+Update PhoSim tutorial to use CatSim for creating instance catalogs,4,80,1.8008593,2.1684983,2.675528,2.0
+jenkins slave password exposed in process table,0,8,1.9923154,2.1680088,2.706687,4.5
+Find & archive José Garmilla's S/G separation code,1,8,1.9090258,1.4690534,2.5038748,2.0
+Fix & document S/G code,10,8,2.206495,1.1714382,4.1137123,5.0
+Wrap clone for all table classes,6,80,1.8515345,6.4407754,3.4127736,0.5
+Check uses of darktime for NAN,2,8,1.8227113,1.6153038,2.3071852,1.0
+Shared stack build failures on lsst-dev01,0,5,1.9368665,0.043310978,2.606256,1.0
+git-lfs related lsstsw installation error on macOS Sierra,1,8,1.8430554,0.051653128,1.9395757,0.375
+Update dev guide to clarify C++ construction syntax (implements RFC-242),0,8,1.8467373,2.1361089,4.0041914,1.0
+Microservice bootstrapper doesn't handle maketrans() correctly,0,8,1.9025749,0.8878189,1.8760015,1.0
+Investigate stack-like installation requirements for Pegasus,4,8,1.8935541,2.2806861,4.385414,3.0
+Make simpleShape less chatty,2,8,1.89205,1.2379404,2.396494,0.5
+Refactor FileInfo and FileData classes into one class,4,8,1.891569,3.572243,4.0267572,3.0
+Re-enable MKL/OpenBLAS,1,8,2.0523422,5.1865954,6.370223,1.0
+Add 2-d version of cppIndex,8,8,2.0549688,1.4456221,2.824,0.5
+Drivers should be able to be made less verbose about eups,1,8,1.9068879,2.432787,3.1419945,1.0
+Investigate downcasting of Table and Record types in pybind11,4,8,1.8720523,6.7831373,3.2009754,2.0
+Advanced study on k8s (kubernetes),30,80,1.8873328,3.0696716,5.327507,10.0
+Create common S3 upload/interface Python package for LSST the Docs microservices and clients,10,80,1.9444271,3.3780754,3.3502028,3.7
+Add LTD Dasher interaction into LTD Keeper,8,80,1.9916011,2.434354,3.7672307,6.0
+LTD Dasher: create microservice skeleton,2,8,1.9675679,10.530607,5.2711415,1.8
+Implement MVP for edition and build static dashboards in LTD Dasher,20,80,1.7805554,4.807398,9.446749,14.5
+Amend Python test naming guidelines in Developer Guide Following RFC-229,0,8,1.9302357,1.1269621,3.6720934,1.0
+"Firefly IPAC table reader should handle data type ""real""",1,5,1.9451768,2.6098528,3.9793756,1.0
+Connection strings in imgserv should come from a config file. ,2,5,1.8019252,1.575788,1.9948,20.0
+Process the HSC RC dataset with the latest hscPipe 4.0.5,1,8,1.8409636,2.209669,3.273026,5.0
+"SourceDetectionTask should only add flags.negative if config.thresholdParity == ""both""",2,5,1.8470314,1.0729431,1.9913269,1.0
+Setup and configure ESXi on lsst-dm-mac-2,3,8,1.8568029,1.7014403,7.4583254,2.5
+Create MacOS Sierra VM for ESXi.,2,8,2.0099454,3.2772224,4.2148337,3.0
+"Update, upgrade and thin VMs on the Mac Pro ESXis",2,8,1.7211534,3.7975855,2.6488369,1.0
+"Update post_qa to shim blobs, measurement metadata and metric definitions to SQUASH API",2,13,1.9500608,2.3923526,1.9255465,3.2
+Generate full set of HSC PSF-matched temp exps for testing,10,13,1.6536738,3.250938,4.782525,6.0
+reorder butler init to be more incremental when building Repositories,1,8,1.7807412,2.2990453,3.180787,6.0
+Make indexed reference loader agnostic to ingest name,2,8,1.9234954,1.7070166,2.0784795,2.0
+Reimplement model/residuals display for CModel,4,8,1.9514393,2.7654293,4.2586575,1.0
+Remove or revive bitrotted code in meas_modelfit,2,8,1.9791739,1.2309839,1.8463273,2.0
+change CameraMapper to not migrate backups from parent repositories to the output folder,2,8,1.9001659,2.380742,2.1400294,3.0
+Enable autolinking in Doxygen,0,8,2.0238478,0.89897186,3.0995972,1.0
+Add flags for sources used in astrometric and photometric calibration,5,8,1.7705472,3.7521381,4.9161735,5.0
+update jenkins osx build slave configuration,1,8,1.9513832,1.1676273,2.9470227,3.25
+Run singleFrameDriver with the HSC COSMOS dataset on Verification Cluster,5,8,1.9121362,9.145052,2.7346253,3.0
+DarkCombineTask broken,1,8,1.972966,2.3161654,7.418219,0.5
+Add deprecation_warning capability to upstream pybind11,2,8,1.9209083,2.9683766,2.1000986,2.0
+Check int vs float interoperability in pybind11 afw.geom,2,8,1.9514353,6.9781256,3.2860467,1.0
+Option to apply all images in image rotation panel is inconsistent with the use of the lock feature,1,8,1.6888925,2.752838,2.331865,2.0
+Create test suite for pipe_drivers,4,8,1.8487558,1.4358196,2.743091,6.0
+"Add metadata access to get wcs, visitInfo, and calib from a calexp dataset",2,8,1.7688321,3.151012,3.0440485,8.0
+Copy PS1 catalog to /datasets,1,2,2.101315,1.6952798,3.7731698,0.25
+Per WBS breakout of DRP actuals for December 2016,3,80,1.9262972,4.853067,3.889429,1.0
+Audit pybind11 port for outstanding technical debt,4,8,1.9921198,7.8751745,4.7381153,3.0
+Fix memory leak in SpanSets Persistence,4,80,2.0367084,1.797189,1.8355267,0.5
+adapt jenkins to lsst-dev[-old] retirement,1,80,1.8919595,0.9664769,4.14496,4.75
+Create chatops service for cookiecutter microservice,3,80,2.0585773,2.685603,3.9806018,3.0
+Experiment with ProcessPoolExecutor for reading/writing jointcal results,4,8,1.7487118,9.119388,2.9839873,4.0
+Chart container tracking an active table in a table group,6,8,1.8068205,3.4314594,3.913204,8.0
+Check data loading speed for ForcedSources,2,8,2.0854843,1.4414963,4.658457,2.0
+lsstsw/bin/deploy broken due to missing conda package versions,0,5,1.9303253,0.70396256,1.769297,0.25
+Make standard measurement algorithms less chatty,2,8,1.7789537,2.0808086,2.741991,2.0
+Keep LS as only periodogram calculation option,1,8,1.9032298,1.2573016,5.9786243,2.0
+Backup and get service for lsst-dm-mac,1,8,1.8987361,0.71897197,5.7786126,1.0
+labels for tab were cutoff a little at the bottom,1,2,1.6504289,1.885235,2.945393,2.0
+"testExposure.testGetWcs docstring is wrong, and tests should be assertIsNone",1,2,1.8660742,0.5128452,2.843822,2.0
+Remove RFD options from JIRA RFC,0,8,2.017134,1.1841993,1.9797294,0.2
+Modify community as needed to support RFDs,4,80,1.9517981,3.7750492,3.4998689,0.2
+Add post-repository-creation hooks to cookiecutter services,1,8,1.9938598,1.9248892,3.0225413,6.0
+Add Python property guidelines to dev guide,0,8,2.1178856,0.42316204,3.7368522,1.0
+Move pybind11 how-to technote to dev guide,0,8,1.9701178,1.4033366,6.1314783,5.0
+Kubernetes setup and knowledge transfer,10,8,1.8604664,4.1289744,9.808088,8.0
+Create a simplified workflow based on the ciHsc workflow,5,8,1.7819426,11.103793,4.7271147,0.5
+"Fix ""default"" refcat filter in jointcal.run()",0,5,1.9658544,0.8979173,1.4995128,4.0
+Attend LSST Calibration Workshop at Harvard,10,8,1.8184772,6.4377117,6.8777194,4.0
+Add more periodogram algorithms to the Time Series Viewer,6,80,1.8729572,6.444714,3.1138287,8.0
+Fix lsst-sphinx-bootstrap-theme deployment,0,8,1.9848621,2.0546575,2.035892,0.5
+Update mariadb eups packages,1,8,2.0098348,0.7125279,2.9753978,1.0
+Merge pybind11 branches to master,2,8,1.9494284,2.1214821,6.205026,0.5
+Update the import package in LSSTFileGroupProcessor,0,5,1.7542487,1.9202139,2.2358336,0.5
+PUB JIRA tickets never resolve,1,13,1.9931315,1.0910152,5.8600955,0.15
+Make SpanSet operator templates more generic,2,80,1.9019696,0.7304836,2.4907205,2.0
+Make sqrbot reply to interlocutor,2,5,1.9514998,1.1963696,1.9283857,1.0
+Investigate isotropic footprint growing/dilating behavior: HSC vs. LSST,8,8,1.7193775,6.274387,11.48455,5.0
+Investigate distribution of footprint sizes: HSC vs. LSST,8,8,1.6409757,10.083571,9.851635,5.0
+Create ellipticity residuals quiver plots,4,8,1.9670147,7.540995,4.410181,5.0
+Provide Task documentation for DipoleMeasurementTask,3,8,1.9569565,10.727741,8.192493,2.0
+Investigate source of systematic difference of model psf trace radii: HSC vs. LSST,8,13,1.7064248,6.7915034,11.61413,5.0
+Add rotator information to HSC VisitInfo,3,8,1.9164134,1.8821745,2.2308202,8.0
+Determine strategy for dealing with butler proxies in pybind11,3,8,1.7741541,2.6871488,6.4473047,6.0
+the bias ingestion should not care about the filter ,2,5,1.7145528,3.6597874,2.407053,1.0
+eups distrib: qserv_testdata is not setup,2,5,1.8947929,2.214525,3.2370305,0.375
+Near-term calexp cutout API for imgserv,8,8,1.8550414,3.398387,6.4384027,10.0
+Failure to persist footprints with SOURCE_IO_NO_HEAVY_FOOTPRINTS,2,8,1.7859367,1.3440019,1.7878964,2.0
+Investigate and resolve disk space/quota issues,10,8,1.8942771,6.4830337,5.851041,4.0
+Wrap astshim using pybind11,8,8,1.8948582,12.282412,7.4772215,4.0
+Convert validateDrp.py into a monolithic SuperTask (MVP),10,80,2.0082724,10.995697,1.9860046,1.0
+Provide Task documentation for PsfMatchTask,5,8,1.9509655,5.2295146,8.192493,4.0
+matcherSourceSelector incorrectly uses nChild and footprints in isMultiple test.,0,5,1.6971394,1.9030087,2.3156254,1.0
+Investigate slow linking of pybind11 modules,6,8,1.9545425,5.446306,5.357874,2.0
+Fix broken travis-ci,1,5,2.00777,0.16422462,2.035892,2.0
+streamline generation of qserv_latest eupspkgs,2,8,1.9680294,1.0888276,7.774625,1.25
+Make SGS: plotsScript.py: makeRachelPlots work!,5,8,1.9399954,3.5587227,3.3111482,4.0
+qserv_distrib does not setup qserv_testdata,1,5,1.7975341,1.3820667,1.8051355,0.5
+Configure system,5,5,2.1710103,4.7391167,7.3181467,3.0
+Respond to user cofiguration needs,7,8,2.018088,3.989192,3.6946292,2.0
+Security Vetting,10,80,1.9156951,6.384483,7.418219,2.0
+Provide Task documentation for ImagePsfMatchTask,3,8,1.9580892,4.258496,9.633531,2.0
+Apply second round of Robert's LDM-151 comments,5,8,1.9033959,0.7934927,4.7035766,8.0
+Act on Robert and Zeljko's requests for tweaks LDM-151 from yesterday's chat,1,5,1.7732216,1.8644015,2.4097357,4.0
+Refactor astshim so objects hold a unique_ptr to the underlying AST object and are non-copyable,4,8,1.9055156,2.2570233,3.356615,6.0
+Move fromDbToTruth.py from sgs -> sgsupervised and merge in contents of makeTrainSet.py,2,8,1.8706945,3.5408752,2.3457398,1.0
+bulk rename of jointcal variables,8,8,1.9705663,2.1994848,6.2293096,2.0
+Include CBP coordinate transformation system in LDM-151,8,80,1.8002317,2.7237997,2.4865286,2.0
+Reinstall ESXi on lsst-dm-mac.lsst.org,4,8,1.9511517,0.7303106,4.395801,2.0
+Pythonic type names in pybind11 docstrings,2,8,1.961959,0.9351338,2.8588529,4.0
+"Processing run on ctio .9-m, January 2017 ",3,5,1.810306,1.948373,2.8722343,8.0
+Provide Task documentation for SnapPsfMatchTask,3,8,1.908613,5.2595425,8.192493,2.0
+Ensure __str__ and __repr__ copied from Swig,1,8,1.8923413,1.3628588,1.8083347,4.0
+"Lomb-scargle step method input default values, valid ranges and labels need more work",2,8,1.6549087,2.487787,5.902163,6.0
+calibrateTask.py example not working on current stack,2,5,1.8774579,2.5976942,2.0680802,1.0
+Create 2D monotonic operator for NMF deblender,4,13,1.9580822,2.150947,3.9806018,4.0
+Check landscape.io is working with lsst/qserv repos,0,8,1.898873,0.91070455,1.7479224,2.0
+Autoupdating and self-publishing API documentation for imgserv,4,8,1.8426344,3.8375702,5.3457727,10.0
+Implement global sky subtraction,20,80,1.939201,10.415498,7.9091105,10.0
+Provide Task documentation for AssembleCcdTask,3,8,1.9284148,4.5349646,9.633531,4.0
+Implement file transfer in DR tool,12,8,1.969448,4.289523,7.288599,6.0
+Test file transfer for DR tool,6,8,2.0017965,2.7316217,3.8247786,5.0
+Wrap ci_hsc with pybind11,0,8,2.0164232,5.498967,1.996182,4.0
+Write release notes for pybind11 port,5,80,2.1026711,2.3766408,6.6673393,3.0
+working directory recovery in pegasus investigation,3,8,1.9251724,2.4561496,8.083368,2.0
+Catch-and-ignore should not apply to any exception,1,8,1.8976125,0.6292782,2.037098,4.0
+Provide Task documentation for IsrTask,5,8,1.8924254,3.6821995,9.633531,4.0
+astrometry_net_data version has regressed to 8.0.0,1,5,1.8988649,0.54665864,1.9913546,0.75
+magnitude shoud be plotted in decrease order in period finding layout,2,8,1.9935604,2.9647212,2.5564065,1.0
+newinstall.sh broken by conda package removal from public channels,1,8,1.8968729,0.8028384,2.328236,1.0
+Add feature to overlay the searched position on the coverage image.,2,8,1.9308188,4.420488,5.768292,3.0
+Help IN2P3 scientist to load stack processed data inside Qserv,8,80,1.7966328,5.222639,3.622177,5.0
+Changes in the SQUASH API to upload metrics definition ,4,8,1.8417145,3.8294182,5.168645,5.6
+Provide HSC test data for deblending,5,8,1.8777233,1.9869381,6.303757,8.0
+Provide high-stellar-density fields for deblender testing,4,8,1.832031,5.3913136,9.292755,4.0
+Implement PSF convolution operator in 2D,6,8,1.9747301,10.131672,6.528269,6.0
+Implement NMF with alternating least squares,6,80,1.8947526,5.0540876,8.430735,4.0
+Implement validation metrics for NMF outputs,6,8,1.9819452,8.221677,6.3693595,6.0
+Study deblending techniques,40,80,1.7867044,3.0569355,7.418219,4.0
+Cleanup pybind11 code in afw,2,8,1.8860949,1.4243397,2.6233935,3.0
+Higher order models for jointcal photometric solutions,15,80,1.9137819,9.465805,2.8413215,45.0
+Remove workaround and fix pickling for BasisTypeEnum,1,8,1.857669,1.5456122,1.7978145,2.0
+Create hscIsr.py script,5,8,1.9505113,1.8609935,5.1852694,2.0
+port jointcal to pybind11,8,80,1.9039845,12.681997,6.1314783,8.0
+Cleanup pybind11 code in core meas and ip packages,4,8,1.80162,1.8420259,2.1972792,4.0
+Cleanup pybind11 remaining code,1,8,2.0457995,0.5963408,3.9457293,4.0
+Implement new spatially-variable PhotoCalib model,20,80,1.8936726,7.7862625,12.299948,16.0
+design new Calib object and interface,10,8,1.96356,9.988797,9.551817,4.0
+Investigate meas_mosiac's photometric model,10,8,1.9115697,5.030069,1.79213,4.0
+Implement improved jointcal photometric fit,10,80,1.8729249,14.593055,7.9091105,10.0
+cutout size parameter is not passed in the request by the download dialog,1,5,1.907094,1.0114559,3.261035,1.0
+runIsrTask.py example (also) not working on current stack ,1,5,1.9617552,2.4089203,4.0798407,1.0
+Plan for S17-3 sprint,14,35,1.937142,4.4933324,5.017312,5.0
+Plan for S17-4 sprint,14,0,1.9406959,4.1798983,5.017312,5.0
+tests/testPsfDetermination.py has a broken test,0,5,1.7465872,0.84436417,3.0079722,2.0
+Resolve variances and/or provide narratives for LSST ME 16-12,5,80,1.7954551,5.4837575,1.8961734,2.0
+Resolve variances and/or provide narratives for LSST ME 17-01,5,80,1.8698199,2.9666798,1.8961734,2.0
+Monthly narrative for December 2016,1,5,2.004169,2.1034582,5.0659294,1.5
+DRP monthly narrative for January 2017,5,13,1.994898,3.9156194,4.7381153,1.5
+Recruitment in January 2017,5,8,1.8731968,4.2991924,3.3528428,5.0
+Recruitment in Feb 2017,5,8,1.9217114,3.9373357,4.5011215,4.0
+Precision of expression columns,4,8,2.1042197,5.6789346,6.2293096,2.0
+Change Executor's data passing mechanism,8,8,1.9418939,4.7169886,2.3303127,10.0
+Mid-cycle replan,20,8,2.0936196,7.196288,7.418219,5.0
+Allow Executor to work with pre-exisiting dataset repositories,4,80,1.8332092,2.8450642,3.8696065,1.0
+Investigate whether DRP team members can ticket personal work on JIRA,1,5,1.7025408,2.4566364,2.529726,1.0
+Fix gaps in afw test coverage,10,8,1.9774717,1.479873,2.0081892,6.0
+Remove makeVisitInfo,0,5,2.1125503,0.92988104,2.375634,0.5
+Remove afw::image::ImageSlice,2,5,1.9165938,1.8496531,2.1843936,2.0
+afw::math::Function should be pure-virtual,2,5,1.8099513,2.2437992,4.5703278,2.0
+Replace afw::geom::Functor with std::function,2,5,1.8239847,3.1636474,4.4880385,1.0
+Convert some afw enums into class enums,4,8,1.794007,4.1769404,10.078997,2.0
+Use ndarray instead of std::vector in RadialXYTransform,4,8,1.7012509,2.8034163,2.6162248,1.0
+Use ndarray instead of std::vector in afw::math::Function and Kernel,8,8,1.6842021,2.36328,2.5456908,2.0
+Delegate to Astropy for coordinate stringification,2,8,1.8394291,2.4856813,3.9115698,2.0
+Replace afw.geom.Angle with Astropy Quantities in Python,4,8,1.8395119,3.8453012,4.2524996,6.0
+Revisit wrapping C++ Control objects into Python Config objects.,4,8,1.9664603,2.7497375,2.6152923,6.0
+Refactor Fastly API client from LTD Keeper to LTD Conveyor,1,8,1.8316178,3.2464428,2.570709,0.4
+Rewrite ndarray pybind11 type_casters to avoid numpy C API,2,80,1.7682433,0.9522177,1.807091,4.0
+Add VERBOSE logging option to log,2,8,2.087993,2.5849867,2.1031568,1.0
+Pad Psfs before PSF-matching,2,8,1.9615196,3.4627,6.4862227,6.0
+implement a fixed-length weekly tag format,2,8,1.9807814,2.7723358,8.51354,0.25
+Add default constructor to new Footprints,1,5,2.0243032,3.4400735,2.0213385,1.0
+Use Pegasus to do ProcessCcd with a subset of HSC COSMOS data on /datasets/hsc,10,8,1.780986,3.8930373,3.7947855,1.0
+Delete FlipLR  class since it is no longer used,1,2,1.8547884,1.0442373,2.2285092,0.5
+Onboarding form Tim Morton,2,5,1.9553077,11.883921,6.1256742,0.1
+Update local onboarding guide,0,8,1.9966646,0.06817031,3.2988117,0.25
+squash KPM plots should label the time axis with a timezone,1,8,1.7683444,1.8805051,3.2337947,0.5
+squash KPM plot points are ~8 hours ahead of UTC,2,5,1.8991208,1.0931628,2.6078148,1.4
+Replacing JS package manager npm with yarn,2,8,1.973679,2.8757198,2.323209,1.0
+perodic `mysqldump`s of squash qadb,1,8,1.9046725,1.6885171,4.110439,4.0
+Implement search processor(s) to support All Sky mode,12,80,1.8917061,14.13829,8.88522,4.0
+"Implement ""All Sky"" mode in LSST catalog and image search panels",8,80,1.7371917,6.097909,7.666099,4.0
+Modify FlagHandler C++ and flagDecorator.py to make flag identification robust,4,8,1.9369012,2.0329914,3.6264796,8.0
+finish KeyMap and fix _decompose in astshim,4,8,2.094084,0.638112,1.9041849,2.0
+Rebase pybind11 branch onto latest master,2,8,2.0793996,0.8292679,3.125753,2.0
+"Investigate bimodal distribution of footprint sizes for ""stars""",4,8,1.8199161,4.522669,8.574619,5.0
+Prepare for IRSA Time series viewer release,3,80,1.874868,5.4934855,5.3159485,8.0
+Firefly is not working in Windows browser IE 11,1,5,1.913433,2.0473232,2.4153376,8.0
+Fix Search on developer.lsst.io,1,8,1.9787048,0.5410487,2.258726,0.2
+VM Cluster machine reset,1,8,1.7903264,4.192685,7.418219,5.0
+Modify pybind11 sconsUtils to only prepend underscore if not already present,0,8,2.0168025,0.29640338,2.5125103,0.5
+add hsc dataset to jenkins validate_drp job,1,8,2.0779054,1.6380775,2.468627,6.0
+Provide Task documentation for SourceDeblendTask,4,8,1.96864,2.7002652,9.633531,2.0
+Investigate exception handling in PYBIND11_PLUGIN,2,8,1.8547589,1.5426502,2.2956648,1.0
+Update git-lfs repositories to address deprecations.,2,8,1.80968,1.5354351,2.7665205,2.0
+Use C++ for OCS Bridge to DMCS subscribe as well as Publish,8,80,1.7224507,2.201335,2.2591202,34.0
+Test module for DMCS,4,8,1.8501643,6.94619,3.0930028,6.0
+Test for OCS Bridge,6,8,1.912282,5.818523,3.4660106,6.0
+Add Audit capability to prompt processing,15,8,1.9078059,6.6328306,4.821876,16.0
+Operations planning - February,11,8,1.7154795,7.1907296,7.4574785,30.0
+DM-wide replanning - February,20,80,1.8736414,5.533107,5.402158,10.0
+Upgrade flask to 0.12 (stable),1,8,1.8638097,4.2427187,8.125451,6.0
+Add utility code for wrapping dict-like C++ objects,1,8,1.983806,1.5357171,3.77249,6.0
+Provide Task documentation for CmdLineTask,3,8,2.044851,4.253692,9.633531,4.0
+Add ability to security lock specific RFCs,2,8,1.92816,2.6781754,5.440512,0.25
+Downloaded table when columns are filtered one-by-one contains all the columns regardles user selection,2,13,1.8352749,1.6975129,2.5065906,6.0
+Build Python doc using Sphinx,1,8,1.8678834,1.0457807,7.0241785,8.0
+Port obs_monocam to pybind11,3,80,2.0247102,3.712267,2.4300702,0.5
+Wrap obs_cfht with pybind11 instead of swig,1,8,1.9570801,3.1066034,2.772291,0.5
+Wrap obs_decam with pybind11 instead of swig,2,8,1.9658486,3.0484967,4.401074,0.5
+Wrap ctrl_platform_lsstvc with pybind11 instead of swig,2,80,1.8272988,1.0355937,1.8092633,0.1
+Wrap cat with pybind11 instead of swig,2,8,1.9104596,4.0750275,5.0446634,0.1
+Provide Task documentation for RepairTask,3,8,1.921424,6.2614245,8.192493,4.0
+Wrap ctrl_events with pybind11 instead of swig,2,8,1.9689738,1.6931655,2.8046439,6.0
+Wrap sphgeom with pybind11 instead of swig,8,8,1.740446,4.3771977,5.0446634,6.0
+Implement forced photometry server-side extension in PDAC,8,80,1.8315576,6.298365,6.1128592,6.0
+Update FGCM fit parameter format,2,8,1.9805387,1.5895432,2.8550048,7.0
+Port microservices to uwsgi,10,80,1.9109049,2.957035,6.1314783,4.0
+"How to write your own command line task, including how-to-retarget sub-tasks",10,80,1.8697575,3.7340758,2.9897223,4.0
+squash support for multiple filters per dataset,4,40,2.0077078,5.0338583,3.8047109,2.8
+makeCamera.py has undefined variables,1,5,2.0312743,0.23310235,3.8145628,1.0
+Get jointcal to work with pytest,3,8,1.8401877,2.2373567,3.080971,4.0
+The stripMetadata argument of makeWcs doesn't work reliably,1,8,1.868996,1.2394273,2.4381735,0.5
+Add nginx logging into git-lfs,2,8,1.985705,0.67950535,3.8723433,1.0
+Improve install/configuration/tests documentation and migrate it to reST format,3,8,1.9376379,2.9090257,2.0240731,1.2
+Implement parallel processing in L1DB prototype,14,80,1.9962376,17.504316,8.997282,8.0
+Install LSST stack on Perseus,5,80,1.8719629,1.7241405,2.1446764,0.5
+Provide feedback on SUIT code,4,8,2.1586897,9.225092,8.85619,2.0
+Per WBS breakout of DRP actuals for January 2017,5,80,1.9169925,4.6802306,3.691762,1.0
+Accounts for DRP team members on Perseus,2,8,1.8275144,2.662269,3.7800107,0.1
+Per WBS breakout of DRP actuals for February 2017,5,80,1.9093914,4.988732,4.160557,1.0
+Per WBS breakout of DRP actuals for March 2017,5,80,1.9153954,4.7300315,4.160557,1.0
+Per WBS breakout of DRP actuals for April 2017,5,80,1.9192916,5.204251,4.160557,1.0
+Redesign tape tabs for feedback,2,8,2.046877,1.9484111,6.2009254,5.0
+Draft plan for PoC,2,8,1.8884375,5.7679167,5.017312,5.0
+Review and publish,3,8,2.1654115,4.334951,3.7591763,4.0
+obs_decam should not call stripWcsKeywords,1,5,2.020544,1.5165521,2.120704,0.5
+weekly tag/release build of w_2017_6 failed: flask,1,8,1.8719659,0.7143349,2.4747152,0.5
+meas_base tests broken with NumPy 1.12,0,5,2.0141861,1.363342,1.7920277,1.0
+Creates online help for SUIT,7,8,1.8878367,5.2144113,5.6948757,2.0
+Get a microservice logging to ELK stack,6,80,1.8330045,7.866735,4.60074,6.0
+Fine tune CEPH for a few worker nodes,3,80,1.9268882,3.400608,4.1167755,10.0
+Finish query cancellation,6,8,2.175843,3.1472626,3.6282253,16.0
+Document LSST stack installations on Princeton clusters,2,8,1.9946988,3.5515733,1.8824234,1.0
+Clean up time series viewer,2,8,1.9190352,2.4626164,4.6075325,1.0
+Create IFE app for Time series viewer,6,80,1.9442216,3.9341972,3.8108742,2.0
+"Resolve DM on-boarding process with coordination between Project IT, NCSA, DM T/CAMs and Admin",10,13,1.7888979,19.070002,14.006996,4.0
+Minimal support for parallel execution of SuperTask,15,80,1.971417,6.157859,5.600971,4.0
+"Photometric calibration uses a column ""flux"" not the specified filter unless a colour term is active",1,8,1.686937,1.5057362,2.7225475,1.0
+Create Nginx reverse proxy for DAX webservices,4,8,1.8029641,2.0938954,4.633119,4.0
+monocamIngestImages.py is vestigial,1,5,1.7659011,2.475574,4.586606,1.0
+Complete LCR-836 (typographic correction to LSE-69),1,2,1.794981,7.0394583,8.07642,2.0
+Create obs package for PTF/ZTF,20,80,1.978423,2.823748,2.7460399,20.0
+histogram option update (input dialog and server support),4,8,2.0637445,3.9032462,6.809412,8.0
+"scatter and line chart zoom changed when changing between ""points"" and ""connected points""",1,13,1.576589,1.7991004,1.9466269,6.0
+Firefly has not been bootstrapped as uncaught exception,1,5,1.7951804,0.6506157,1.763629,4.0
+Both `DIAExp` and `DiffExp` are used for difference images,6,8,1.6791071,3.7305381,4.2106814,1.0
+label change requests for Firefly/IRSA viewer,1,5,1.9101955,2.4348612,2.643309,2.0
+"LSST - time series viewer results (part 2, UI work)",8,8,1.7607247,12.808552,13.056108,8.0
+Filtering selected row (ROWID filter) gives wrong results (dev version),2,5,1.7569302,2.6033356,10.608683,2.0
+Possible to provide a drawing of the Stripe 82 sky region for context?,2,8,1.7094339,11.140926,7.2538176,2.0
+Jenkins redirecting to incorrect build numbers,1,8,1.874275,-0.088158816,4.400527,1.5
+Update configuration for HSC calib construction,1,8,1.9382163,1.7778332,2.5779443,0.5
+qadb missing migration,2,5,1.983139,2.8714733,7.418219,1.4
+Create test cluster for athornton,5,5,1.9070436,2.7095575,3.5031695,1.0
+Summarize plans & questions for Calib Telescope work,2,8,1.8669728,4.0038953,10.695734,2.0
+Robustify pybind11 reference and pointer return types,2,8,1.9067329,1.7559769,6.943784,4.0
+Fix setting of calib_psf_candidate flag to match docstring description,1,4,1.894501,0.1957624,1.8050953,3.0
+Restoring coverage image after cropping it shows an empty tab entitled 'FITS data',1,8,1.721722,1.133745,2.95284,1.0
+Replace getXXXKey for slots with returning functorKeys similar to existing compound Keys,4,8,1.8473358,1.4302101,3.6927752,4.0
+Update Calib Telescope data processing section in LDM-151,1,8,1.790079,3.2542136,2.5764263,2.0
+Remove git-lfs legacy API logic in lsst-build,1,8,1.7683746,1.1047316,2.890952,0.5
+Construct obs package for 0.9m at CTIO,3,80,1.8412305,1.4421716,2.002411,8.0
+wcs creation is mandatory,2,8,1.924095,0.53931373,2.8710465,2.0
+Convert prototype Calibration Telescope pipeline to use stack conventions,10,80,1.9117893,9.23379,7.254595,15.0
+Nebula instances become read-only while active.,4,8,1.9372663,1.9707052,3.1206768,2.0
+PDAC online help content update ,5,8,2.0678854,3.0645683,2.4551017,4.0
+Change from __getstate__/__setstate__ to __reduce__ for pickling support in pybind11,1,8,1.81396,0.8329064,1.5195452,4.0
+Display image cutout in LSST PDAC,4,80,1.987414,4.2679853,2.7078454,2.0
+Load WISE catalog data in PDAC,10,8,1.9745882,5.3582783,2.8438625,100.0
+Load WISE image metadata to PDAC,12,8,1.9777247,4.0289054,2.973831,10.0
+remove and replace ctrl_events package dependencies from ctrl_orca,2,8,1.7815083,0.2609087,1.7913502,10.0
+Changes to lsstsw to rename ctrl_events package to legacy-ctrl_events,1,8,1.8583283,0.42600644,1.6900975,0.5
+Automatically update Perseus stack from cron,2,8,1.8779801,1.8445989,2.4847038,0.1
+Add ability to highlight data subsets in analysis plots,10,8,1.9725157,5.649377,4.4249287,2.0
+Phase folded table content fix,1,8,2.0156562,1.2375349,3.5492039,2.0
+Investigate propagation of visit flags for certain patches in HSC RC processing,8,8,1.8444887,6.3861647,3.616015,3.0
+Fix wrapped constructor for StatisticsControl,1,5,2.0092282,1.8998868,2.4494414,0.5
+IpacTableIpacTableFromSource returns one row less if there is no terminating new line in the table,1,8,1.7944891,0.666761,1.9300183,2.0
+lsst_build git fetch/clone retrying,0,5,2.0278735,1.0792601,3.1953373,3.0
+Provide a working IsrTask example,10,8,1.8705597,5.081768,9.293279,1.0
+Provide a working CalibrateTask & CharacterizeImageTask example,8,8,1.7936887,6.950279,12.020782,1.0
+Wrap meas_extensions_convolved with pybind11 instead of swig,5,8,1.7598423,2.3486922,1.7076534,0.5
+make jointcal's results not dependent on the order of the input data,4,8,1.7842042,6.473652,2.0656552,6.0
+Add meas_extensions_convolved to lsst_distrib,0,8,1.8437576,1.4735856,1.6223994,1.0
+Showing histogram on external viewer doesn't allow to interact with more charts,2,8,1.6880791,2.964374,2.0175593,4.0
+Configure transition screens for DM agile workflow,4,8,1.6740884,8.270701,5.352326,1.0
+Construct obs package for test stand 3,10,8,1.9702185,1.9348211,2.2549102,8.0
+Fix default argument for Footprint::intersectMask,1,5,2.0335956,0.5606304,1.8169008,1.0
+Attend LSST-DESC Collaboration Meeting at SLAC,10,8,1.6759671,7.8049936,5.0320497,3.5
+jenkins 2.19.4 security issues,1,8,1.9693568,3.3049266,4.336478,6.75
+Investigate effects of bounding box setting for adaptive moments,8,8,1.9358377,4.221007,7.6834664,4.0
+package libcurl for eups,2,8,2.0032806,1.6259915,2.1715145,0.5
+Add cmake to macOS build dependencies,1,8,2.066902,0.98218405,4.6215954,0.2
+Cleanup dead read/write StarList c++ code,1,8,2.0870032,0.17271595,3.4051876,1.0
+First draft on the data product sizing ,3,8,1.9806825,5.774829,5.006317,10.0
+Clarify C++ log creation documentation ,0,5,2.072658,2.511554,4.8528585,2.0
+lsst.log documentation should cite other lsst.log documentation ,0,3,1.8944675,1.5897517,3.6682205,0.1
+Re-work SUIT demo code,10,8,2.261154,10.259359,5.9067063,2.0
+Port HSC patch to allow multiple filters in mosaic,2,8,1.9598626,3.6815321,4.5468197,0.5
+Add support fixes and improvements to remote API,3,80,2.0395374,3.747803,5.832424,10.0
+Create RabbitMQ deployment for panopticon,4,8,1.9221548,5.3338885,4.4107103,17.5
+add osx to stack-os-matrix job,2,8,2.0198295,1.9882332,4.5740395,0.25
+Update exceptions tutorial-level documentation for pybind11,2,8,1.980977,1.2873828,2.7511494,1.0
+Update lsst_dm_stack_demo for pybind11,2,8,1.9772949,1.1785951,1.8596522,0.5
+Fix compass layout,1,5,1.8675457,2.3137558,2.2202005,6.0
+Please do not use Exception.message,1,8,2.044165,0.70016557,1.937864,0.1
+Remove obsolete casts and vectors from Python,1,8,2.0567575,0.18551081,2.0086958,1.0
+ds9.py error code not working as intended,1,5,2.0117874,0.40105182,2.80161,0.5
+Fix database creation error in testTimeFuncs.py,1,5,1.9196275,0.016476002,1.8925396,1.0
+Document uses of pex::exceptions,1,8,1.9645443,3.2929928,2.6451788,6.0
+automate jenkins workspace cleanup,4,8,1.8569736,3.4211166,7.418219,3.0
+Switch default reference catalog for HSC to PS1 in LSST format,2,80,1.7545918,2.248636,1.8454162,1.0
+Package version checking is non-deterministic,2,8,1.8823558,0.83684057,2.3475413,0.5
+Package xrootd-4.0.0rc3-qsClient2 with eups,1,8,1.9660828,2.7123327,2.1973858,0.5
+Update Python API for show_xyplot,3,8,1.9634843,0.9289167,2.3164897,4.0
+Process HSC RC data using pybind11 prototype,10,8,1.8528103,7.176016,6.8943644,5.0
+run most perodic jenkins jobs outside of regular buisness hours,2,8,1.7694023,0.9538047,2.7991223,0.125
+Prevent conflict related to non-unique temporary files created during SciSQL install,2,8,1.8764938,0.5051371,3.284464,2.0
+Remove bitrotted code in meas_modelfit,2,8,2.059814,1.2430116,2.1383095,1.0
+Fix parameter parsing for sqrbot,1,8,1.8925809,1.03001,2.4494414,1.0
+Update DM C++ Style Guide to prefer nullptr to 0 and NULL,0,8,1.7542162,0.106608145,2.8030674,0.1
+test failure due to esutil/numpy problem,1,5,2.0007942,1.0088041,1.886946,2.0
+Update ctrl_stats to support Pegasus output,1,8,2.0604272,1.3510466,1.9684665,12.0
+Improve management of qserv-run-dir in start/stop scripts.,2,8,1.8181707,1.732644,2.544526,2.0
+Replace GKE Ingress controller with nginx/haproxy,10,80,1.8046268,1.0693597,3.034881,4.0
+Allow disabling adding underscores to pybind11 library names,0,8,1.9920084,0.6290413,4.335496,0.5
+Link SublimeText clang-format setup instructions in docs,0,4,1.9551531,-0.23990424,4.157483,1.0
+bug in utility class method objetArrayToJsonSring for Projection unit test ,1,5,1.9310901,2.556899,2.2428546,1.0
+Retire DMTN-024,2,8,1.9378318,1.0118473,7.418219,0.1
+Update pipelines.lsst.io installation docs for 12.1 release,0,8,1.9460425,0.932091,2.374685,0.5
+Update the Pipeline data product diagram,1,8,2.0335433,5.2911735,4.10623,3.0
+validate_drp example/runDecamTest.sh broken on decam dataset,1,5,1.9701065,2.9498653,2.343628,0.5
+Add Integer 18 option to the creation of mocked RAW images,1,8,1.8313727,2.0478637,3.509123,5.0
+ISR fails in overscan for HSC visit=90738 ccd=33,1,8,1.6087093,0.47834873,1.98618,1.0
+Investigate and fix Logstash closing ports,2,8,1.921082,2.8940854,8.242819,1.0
+Software version/configuration introspection needed for Qserv deployments,6,8,1.9558154,4.0803585,4.518409,4.0
+Create Terraform deployment for RabbitMQ,3,8,1.8977233,5.380761,4.1421533,3.5
+Identify initial set of key-values pair for LSST exposures,5,8,1.9389579,1.6196021,11.535227,14.0
+Add Data Management Policy page/doc to developer.io  documentation,1,8,1.8326671,2.061111,1.9248023,2.0
+Define mechanism and services for gathering metadata header information for LSST images,8,80,1.7941309,4.5955296,6.1861773,15.0
+Improve Technote Creation Reliability,10,8,1.9004499,23.404718,7.418219,5.0
+Investigate file sizes for inputs and outputs for L1using mock.,4,5,1.8429633,5.021355,12.797108,4.0
+Update XRootD from upstream,0,80,2.0129669,0.9706922,2.3035069,1.0
+Remote api issues,3,8,1.971865,4.4712453,4.8251343,8.0
+add support for generic Time Series tables in the  TS Viewer,4,80,1.7889806,3.5373821,3.8111475,10.0
+Metricdeviation parameters are wrong,1,5,1.8182672,1.299428,4.5260243,0.5
+Fix all jointcal header multiple-inclusion #defines,2,8,2.011332,1.5548341,2.4008517,1.0
+Using C++ Templates doc has mangled line numbers in example,2,8,1.8272536,0.91973335,4.209093,1.0
+Interface forced-photometry procedure with Firefly in PDAC v1,6,8,1.7389101,2.5530639,2.7017047,10.0
+Make lsst-build reuse buildIDs if nothing's changed,0,8,1.7861074,-0.115530856,2.026235,1.0
+FitsDownloadDialog.js has bugs,1,5,2.0770051,1.767718,3.8145628,3.0
+subaru config/Mosaic.py has bad filterMap names,1,5,1.8673996,0.59984964,1.8728964,0.5
+SpherePoint throws wrong exception for invalid arguments,1,5,1.9533321,0.85223496,6.2009254,1.0
+afw catalog asAstropy fails due to multiple columns of same name,1,8,1.8034948,0.64478135,1.6646795,1.0
+lsst_py3 CI failure due to meas_extensions_ngmix,0,8,1.7436498,1.3687667,1.7940418,2.0
+Please serve the ndarray tutorial somewhere,0,8,1.9635099,1.1250769,8.020939,1.0
+Make astrometry distortion model configurable,3,8,1.9081777,3.1952767,2.5542717,4.0
+Document required autopep8 minimum version,0,2,1.9863038,1.803855,2.1002488,0.1
+Add Doxygen documentation on rebuilds,1,8,1.9770893,1.0893189,2.2108197,20.0
+Update lsst_dm_stack_demo on macOS following DM-903,2,8,1.8179278,0.17187522,1.7845556,0.25
+Resolve variances and/or provide narratives for LSST ME 17-02,5,80,1.7988993,3.171828,1.8961734,2.0
+Resolve variances and/or provide narratives for LSST ME 17-03,5,80,1.7842711,3.3091712,1.8961734,2.0
+Resolve variances and/or provide narratives for LSST ME 17-04,5,80,1.7694179,3.041537,1.8961734,2.0
+DRP monthly narrative for February 2017,1,13,1.987097,4.1716156,5.6948757,1.5
+DRP monthly narrative for March 2017,5,8,1.996206,4.1456985,5.6948757,1.5
+DRP monthly narrative for April 2017,5,13,2.0040388,4.3708706,5.6948757,1.5
+Migrate meas_algorithms to modern afwDisplay,8,80,1.8289953,4.4313607,1.9659033,1.0
+Move activemq packages to legacy status,1,8,2.1091995,2.7956474,10.549675,0.5
+Fix order-of-arguments to SingleFrameMeasurementTask.run() in meas_extensions_ngmix,1,5,1.9255637,0.92162347,1.6958536,0.25
+Remove calibrateTask.py example from Stack (for now),2,2,1.8464204,3.0515776,1.7583379,0.25
+Remove runIsrTask.py example from Stack (for now),3,2,1.8675717,2.2133298,1.7583379,0.25
+new EUPS release w/ tarball fixes,0,8,2.120851,0.40914515,9.397976,0.1
+update lsstsw/newinstall EUPS version,0,8,1.9948689,0.43078718,1.8210124,0.2
+mangle OSX EUPS tarball shebang paths,1,8,2.1152887,1.6626416,4.8221498,2.0
+automate generation of OSX/linux tarball packages,5,8,1.8052312,4.6699185,7.560119,15.0
+add tarball production to weekly tag/release jenkins' job,1,8,1.9472846,2.434219,3.265544,15.0
+setup new EUPS_PKGROOT(s) for OSX/linux tarballs,2,8,1.8205239,0.87512904,6.1057034,5.5
+Cleanup pybind11 code in meas_deblender,2,8,1.9126813,0.46970788,2.1585984,1.0
+Move qserv-testdata.py to qserv_testdata package,1,2,1.8379185,1.6073949,2.9080896,2.5
+Create metric definitions package,5,8,1.9965672,2.246837,3.8996005,6.3
+Fix override warnings in afw,0,5,1.8598586,0.8538043,2.1497014,0.5
+Create a metric definitions access API,9,80,2.0273726,4.0514884,5.119689,1.8
+Create technote describing new metrics system,10,8,1.9908413,9.876658,4.7298155,4.0
+Output jointcal metrics via a metrics logger,9,8,1.8318197,10.137898,3.2069917,5.0
+Assess whether differences in Brighter-Fatter implementations are contributing to the trace radii differences: LSST vs. HSC,8,8,1.7332944,5.238896,1.7985866,5.0
+Create ButlerPutTests for obs_base tests,4,5,1.9120176,3.3410146,2.6701026,6.0
+Fix cosmic ray handling when near saturated sources.,4,80,1.9547405,1.679673,2.139708,4.0
+jointcal validation framework integration (continued from S17),90,8,1.9953467,28.37793,11.637049,20.0
+Clearer and shorter output for qserv-configure.py,0,5,1.7661496,1.0672901,4.5018125,1.0
+Fix issue in bokeh session,1,5,2.0368114,1.4410261,1.8177347,0.5
+Add initial jointcal metrics to validation_metrics,5,8,1.9485772,4.563493,2.704985,6.0
+calling showXYPlot API without xcol/ycol name fails,1,5,1.8492234,0.8165068,3.2073007,1.0
+pipe_supertask failing due to missing dependency,1,5,1.9781018,0.01301421,1.8648045,1.0
+ctrl_stats fails on mac os,0,5,1.9800712,0.012432789,1.9797772,3.0
+Transfer functionality from LSST analysis package script utils.py to sgs-fsbutler,5,8,1.847449,2.1276925,1.9709773,1.0
+Reported mouse position on mouse click is a couple of pixels off,1,8,1.8455981,1.9186891,2.5747008,2.0
+Investigate the best algorithm to compute derivatives for the Brighter-Fatter correction,4,13,1.6257364,13.737962,4.466178,1.0
+"Process HSC ""RC"" dataset through the LSST stack using HSC's Brighter-Fatter implementation",10,80,1.7444609,5.32062,1.8733293,4.0
+All NaNs in coord_ra and coord_dec columns in deepCoadd forced src tables,0,8,1.8347788,1.2355634,1.8442754,1.0
+Update dax_webserv Dockerfiles for dax_latest tags,1,8,1.8490378,0.50991005,1.8360528,1.0
+Rework FGCM Gray Corrections with Aperture Effects,4,80,1.8499366,7.2928605,5.244828,3.5
+Create a specifications access API for validate_metrics specs,4,8,1.9379095,3.47869,4.185814,6.7
+Buildbot email should state if the build used master only or included other branches,1,5,1.6937238,0.88382226,1.9003634,4.0
+Extend planning spreadsheet to estimate cost per WBS element,6,8,1.99271,3.866082,5.735867,3.0
+Improve Monotonicity Operator,8,8,1.8653903,5.613435,7.418219,8.0
+Preliminary Service Management Tool Evaluation,16,8,1.7429255,17.703253,7.418219,10.0
+Register ReadProxy conversions for all required types,4,8,1.9272455,1.2758006,4.5289526,2.0
+Set assembled Coadd Psf to modelPsf with auto-computed dimensions ,2,8,1.7315121,2.8856354,3.6440797,2.0
+Support for hidden filters,2,8,1.9627439,3.7616363,6.356919,1.5
+docker ENTRYPOINT issue with DAX containers,2,8,1.80713,2.814055,4.1530933,0.5
+Create Donut Fit Pipeline,5,80,1.9310739,5.397076,4.812998,20.0
+Feb 2017 DRP Risk Register Review,1,8,1.997731,4.418039,4.5582514,0.25
+Use aliases to clean up table version transition,2,8,1.9960817,2.1414254,3.4493818,2.0
+Make proposal for stable release,2,80,2.0384269,2.2838898,3.0826492,2.0
+Include instrument model in cameraGeom,4,8,2.0077407,10.200591,3.9081368,12.0
+Log all measurement exceptions at debug level,1,5,1.9086598,2.7128646,2.2173119,4.0
+Ignore focus CCDs in singleFrameDriver,2,5,2.00589,1.520334,3.5431044,0.1
+warning message does not disappear even with valid data if the mouse is covering the warning icon,1,8,1.9133986,0.16159475,2.387967,1.0
+nondeterministic random number seeds in MeasurePsf candidate reservation,4,8,1.758216,3.4246085,1.994962,1.0
+Move table versions to Schema,2,8,2.0409849,4.1980734,4.18134,4.0
+Direction of the SuperTask / Butler working group,6,13,1.762453,7.598364,6.251312,30.0
+MSX image rotation not computed correctly.,2,5,1.9568601,3.7749577,3.3779469,2.0
+Move misplaced import in testSaturationCorrection.py,1,2,1.7864147,0.2316237,3.4136808,0.1
+Update pex_exceptions to use pybind11::reinterpret_borrow / steal instead of object,2,8,1.7992387,1.3879931,1.6962743,0.5
+Profile and optimize NMF deblender code,6,80,2.056483,4.4949574,7.231477,8.0
+Rebase pybind11 onto latest master,2,8,2.0490885,0.80638474,6.557667,2.0
+ Planning for integrating separate streams for file header metadata,3,8,1.8778108,3.3159008,3.979408,18.0
+"Prepping new test cluster with scripts and public keys, etc.",3,8,1.9846455,4.880423,6.3542643,15.0
+validate_drp broken on cfht/hsc datasets,1,8,1.9610766,2.9411619,2.0052423,1.0
+XY plot is unrecoverable after it fails because of column name doesn't exist,1,5,1.7840142,0.7264494,1.8453729,8.0
+Revisit Ellipse assignment behavior with Python in mind,2,8,1.8811163,1.3381605,5.3676767,6.0
+Ensure Image and Mask objects initialize their pixels to zero,2,8,1.9707887,1.5101476,5.6975574,1.0
+The default radio button (point)  in scatter plot  is not selected after line style changes.,1,5,1.7044059,2.998825,1.7254436,1.0
+Allow Transform to return its inverse,1,8,1.7672223,2.3502498,4.3567367,4.0
+__all__ = ... should go after from __future__ import and before any other includes,0,2,1.8544096,0.7437029,1.7755916,0.25
+Allow Transforms to be explicitly simplified,2,8,1.9226203,1.7856171,4.2570286,8.0
+Allow Transform to return a matrix of derivatives,3,8,1.8963387,3.3679042,3.1869416,4.0
+Support concatenation of Transforms,4,8,2.0126584,8.773389,4.3952994,6.0
+Write unit tests for lsst-build,8,8,1.8976673,3.1525648,7.6595097,10.0
+Document official release process,2,8,2.0064325,3.156548,5.0794806,2.0
+Config.loadFromStream does not accept StringIO objects (and maybe files),1,8,1.8212999,1.7264124,1.7778333,1.0
+Develop initial multifit framework design sketch,2,8,2.0819328,6.0095525,12.194448,6.0
+Continue development of DM to MEDS conversion code,20,8,2.0618672,14.377938,11.337263,2.0
+Write up data/parallelization axis transformation examples for SuperTask WG,4,8,1.8021679,6.834596,5.030032,2.0
+Fix validate.metrics Python import,0,2,2.034265,0.30765498,1.9674345,0.3
+Design of portable system,21,80,1.8313996,13.645214,4.636594,18.0
+Fix LTD Dasher title processing (handle removal),1,5,1.8975927,2.774303,2.7146556,0.5
+Refactor Coadd Tasks: Add Pipe Task that makes all Coadds for DRP,10,80,1.82686,2.5035484,3.5063963,6.0
+Check for performance regressions in pybind11 vs swig,4,8,1.8566073,1.6150032,4.2740645,2.0
+Better SSL config for GKE endpoint api.lsst.codes,0,8,2.0133343,1.71158,1.7105759,1.0
+Refactor DCR algorithm to be compatible with the LSST stack (continued from F17),30,80,1.8281447,35.452156,3.6712732,52.0
+Make DCR code an EUPS package,0,8,2.0240302,1.1168342,2.939437,4.0
+Convert DCR code to use Tasks,6,8,2.0729134,12.138194,9.657556,8.0
+Make DCR command line task,5,8,2.0904284,3.0667768,2.1348019,3.0
+Use logging in DCR code,5,8,2.15393,4.8186626,4.471299,3.0
+Typo in DMTN-023 tutorial,1,2,1.9201567,2.0804,2.812157,0.25
+Changing the way we start the bokeh apps ,2,8,1.7723556,2.7881942,9.201653,1.4
+Move git-lfs.lsst.codes due to EC2 instance host hardware being retired,0,8,1.8758762,1.4574523,4.940479,1.0
+Alert production team work on LDM-151 in S17B,20,8,1.7176105,7.5693474,2.8355377,60.0
+Production update,10,8,2.0734642,4.0850883,8.183496,2.25
+Investigate posible matcher improvements,10,8,1.9368513,13.013718,7.418219,20.0
+AP Science Lead -- Bring Alg Components up to date,10,80,1.8154725,3.9310179,4.0833993,15.0
+API service infrastructure,7,80,2.13321,9.50783,7.0731535,30.0
+AP Tech lead -- Bring Alg Components up to date,10,80,1.8029431,3.1925025,4.62267,15.0
+AP effort for pybind11 in S17B,65,80,1.8393302,23.225365,4.263587,45.0
+Repair ELK and workaround Nebula problems,4,8,1.9051732,2.5953288,10.733477,1.5
+Research: how to implement spatially varying PSF for spatially-varying ZOGY and AL(decorrelated),20,80,1.6523277,34.09698,8.782391,12.0
+measAlg.interpolateOverDefects doesn't accept a python list of Defects,1,5,1.8698726,1.9488314,2.09495,1.0
+Clean up Angle's operators,2,8,1.8569409,0.9747556,5.389156,3.0
+Add deepCoadd cutout API by id in imgserv,6,8,1.8119992,1.2678055,2.5739934,4.0
+Implement spatial variation of ZOGY and A&L decorrelation,8,80,1.6789256,26.561544,13.286453,36.0
+Create spatially varying Zogy and A&L decorrelation tasks,10,80,1.7152959,8.806402,7.809188,26.0
+Plan for shared stack maintenance on developer hardware,2,8,1.9867122,2.750051,3.3668005,2.0
+Analyze alert distribution testing results and identify bottlenecks (continued from F17),10,8,1.7449571,25.920881,2.0884957,22.0
+Help transition HSC team to LSST stack,20,80,2.006576,3.4483585,4.129725,5.0
+Port SafeClipAssembleCoadd to new Coadd Task,2,8,1.7989262,2.5988154,4.206161,8.0
+empty image tab appears unexpectedly after selecting an histogram column and cancel,0,8,1.8861662,1.4994165,4.749414,2.0
+Install v13 release into shared stack,2,8,2.1104536,1.8265444,2.4204526,0.5
+Include aliases in Schema introspection,2,8,1.9136983,2.2319899,2.4771795,1.0
+Add stars to blending simulation script,2,8,1.9986733,3.7509358,5.4313188,4.0
+Plan for DRP S17-5 sprint,20,35,2.0007906,5.227165,5.017312,4.0
+Plan for DRP S17-6 sprint,20,0,2.0048826,5.084523,5.017312,4.0
+Plan for DRP F17-1 sprint,10,0,2.0395606,6.028947,5.017312,4.0
+Write out true galaxy images in blending simulation script,6,80,1.9421525,3.207498,4.6415887,2.0
+Come up to speed with new deblending algorithm.,10,8,1.9844474,3.3685896,2.557551,3.0
+Update DRP release notes for v13,2,8,2.0827243,1.3543556,2.5159712,2.0
+Filter by job and metric when returning data from the API,1,8,1.8126944,3.598559,3.8902814,3.2
+URL for sqrbot should be discovered from the SQuaSH API,1,5,1.8635825,2.5882125,3.5991988,1.4
+SQuaSH code stability and performance improvements,50,80,1.8685033,48.834003,7.7014384,15.0
+Produce difference images from raw HiTS dataset,6,8,1.8988274,5.141041,6.78346,6.0
+calibRoot needs to be specified for the input mapper,2,5,1.8160936,1.7408093,3.0829866,0.5
+Extend hits_ingest script to handle all steps from ingestion to diffim,10,80,1.8417252,1.4428939,1.9505925,4.0
+Have astshim classes register themselves with Object for use by fromAstObject,2,8,1.8030367,1.4406499,2.11983,4.0
+"Replanning, Commissioning, Operations Planning (S17b)",103,13,1.9553021,32.28656,11.9910145,191.0
+Service Management Definition & Refinement (S17b),64,8,1.9172965,26.99024,4.55892,61.0
+Enterprise Monitoring Design - Phase 2,11,0,1.8257263,10.768564,7.856072,13.0
+Header construction and distribution architecture,16,80,1.7796594,7.2298765,10.733477,40.0
+fix int/long conversion on 32-bit systems and selected 64-bit systems,2,8,1.768996,3.7205818,1.8770543,2.0
+System Administration Technical Debt (S17),25,8,1.9805037,30.104532,10.47686,44.0
+Reintegration of archiving and prompt processing,40,8,1.8335001,16.568083,7.9395256,168.0
+Workflow creation improvements & expansion,20,80,1.8652492,15.998636,12.640446,195.0
+Emergent Middleware Work (S17b),39,80,1.9824961,40.97071,13.662895,13.0
+SuperTask Working Group Activities,10,13,1.9697856,15.5051775,7.9810667,5.0
+Prototype Data Backbone Façade,22,8,2.0092034,23.772722,11.862875,12.0
+Service Management & Emergent Work (S17b),14,13,1.9563775,33.625336,12.858505,37.0
+Cluster Service Monitoring Development,22,80,1.8013625,22.690004,4.3385983,77.0
+Account Review Policies & Procedures,10,8,1.8235689,3.8870318,4.9110794,13.0
+"Butler(root=""foo"") should not warn about mapper class instance",1,5,1.7867132,1.2825934,1.9000092,1.0
+qserv-configure.py is broken in master,1,5,1.9383035,0.25874442,2.4827094,1.0
+Reduce the time it takes to send a user query to workers.,4,13,1.7867721,3.4709513,2.445647,45.0
+Rename custom pybind11 namespace to python,4,8,1.9622879,0.18938783,2.7591786,0.5
+Query deployment to the cluster hangs with very large number of chunks.,4,8,1.7532324,10.265617,3.7668095,12.0
+git-lfs web server port 80 misconfigured serving binary data,0,5,1.7992711,2.9821846,6.8488235,1.0
+HTTP redirect to HTTPS breaks with HTTP2 enabled,1,8,1.8416486,0.9851045,2.7570443,0.5
+Soften symmetry operator requirements,1,8,1.9067047,3.147612,4.8773594,1.0
+Promote prototype AP pipeline to ap_verify (Continued from S17),16,8,1.7976493,17.427753,3.6137118,60.0
+Assess the current PSF system,10,8,1.8976958,4.9677634,6.556471,30.0
+Replace use of old WCS classes with new astshim-based WCS class (Continued from F17),100,40,1.6778848,5.247136,5.698978,22.0
+Emergent work for the AP team in -- S17B,30,8,1.7495519,28.11564,13.45598,40.0
+Write function to apportion flux based on NMF template weights,6,8,1.980059,4.1232147,1.9607061,1.0
+Update git-lfs in lsst-dev shared stack,0,8,1.9970447,0.51221985,2.8157432,0.5
+Put HSC Survey PDR1 data in /datasets,1,5,1.8477098,3.4031208,4.849699,1.0
+Procurement Activities for L1 Test System,25,8,1.8451115,17.583746,3.7406235,13.0
+Add LSST branding to pipelines.lsst.io,1,8,1.9238786,1.983395,2.4965193,1.0
+doc build broken,1,5,1.9178143,0.15971798,7.2236447,0.3329999999999999
+Time Series viewer: image issues,2,8,1.9709948,4.57041,3.801119,6.0
+emergent work from Nebula GlusterFS issues,3,80,2.0132177,3.513471,5.4479156,2.0
+emergent work from GPFS 'outage' Feb 25,10,80,1.8176159,0.80056775,7.8256955,1.0
+Fix lsst_sims on pybind11,1,8,1.9333594,1.3844744,1.7941338,4.0
+add sims specific jenkins jobs in preparation for the pybind merge,2,8,1.7659031,1.1446483,4.8142147,0.75
+Cleanup pybind11 afw dependencies,1,8,1.8216157,0.89936495,9.501274,1.0
+Fix URLs returned by the API,4,8,1.8668193,0.88767385,2.8870597,0.5
+Requirements and processes for shipping hardware to Chile,10,8,1.7383732,4.2560835,6.7218804,6.0
+Prototype methodology for dependency mapping in the service catalog,20,8,1.8513633,12.752134,12.155291,5.0
+Exercise SLA templates,4,8,1.960524,4.789917,7.418219,8.0
+WISE object ids are strings and this is causing a problem with qserv,2,8,1.7180399,2.8699415,2.149161,3.0
+Remove leak workaround in log pybind11 wrapper,1,5,1.9424697,1.1962218,2.044097,1.0
+Add upstream pybind11 wrapper for std::type_info,2,8,1.7782917,1.0365046,3.0767524,1.0
+Task initialisation should validate the config,1,5,1.8420285,2.3852234,4.3533955,8.0
+Update the FitsReadTest.java due to the changes in rotation's calculation in FitsRead,2,8,1.7867438,3.6108441,2.268177,1.0
+Clean up meas_base pybind11 wrappers,2,8,2.0488172,2.1477647,1.9088391,2.0
+enable end users to cancel builds,8,8,2.1866364,1.8115697,4.3880997,5.5
+Review instructions for SQuaSH deployment,2,8,1.9530706,4.8306384,3.382955,0.5
+cppIndex should raise Python's built-in IndexError,1,5,1.9006612,0.14140823,2.5995374,0.5
+Reasonable SQuaRE python logger,3,8,1.9712782,3.4083939,8.062082,3.0
+Finalize the resource loaded long term plan,4,8,1.8647214,2.1903434,8.162348,4.0
+Scheduled job (frequent) to sync Travis CI <-> GitHub,2,5,1.9328265,2.054258,2.9204388,4.0
+Error installing sims_catalog,1,5,1.9192661,1.4977386,2.1260645,0.25
+Squash metricdeviation API URL needs correction,1,5,1.9784383,3.0918326,5.4120255,4.0
+validate_drp hsc dataset broken due to http request size limit,1,8,1.8939824,1.3303264,1.7763631,3.833
+bokeh unstable,2,5,1.9077824,1.348784,6.1256742,1.4
+validate_drp jenkins job should artifact processing log files,1,8,1.973564,1.9665837,2.0642164,0.5
+"Create a ""stub"" package that checks for system dependencies for Qserv",1,5,1.7960182,2.1581295,2.0026643,2.0
+set 'wheel zoom' by default for bokeh plots,1,8,2.0088427,2.1364887,2.202268,1.0
+Final pybind11 rebase on master,1,8,2.019559,1.5687288,4.582242,0.1
+Fix broken link in DM Pybind11 Style Guide,0,2,1.8583051,-0.4641445,2.0219061,0.1
+Mount automatically CEPH partition on Openstack,4,80,2.0056477,2.7371762,4.675603,3.0
+Embed bokeh apps in Jupyter/JupyterLab notebooks,5,80,1.9147731,2.413337,2.7856634,4.2
+Convert Czar to use SSI Version 2 API,6,80,1.9800307,6.1552663,3.6302257,11.0
+"Make lsst_ci run obs_cfht, obs_decam example in its scons test.",2,8,1.8223511,1.549401,2.015047,2.0
+Implement a minimal viable REST API in Flask with a test client ,10,8,1.9138962,6.078093,9.388456,7.0
+Field of time column name handling for Time Series Viewer,2,8,1.9185948,2.7941256,3.4658175,2.0
+Update text relating to baseline CentOS versions for building stack,0,8,1.9769678,1.4274551,2.6534293,0.5
+Fix build error in obs_lsstSim,1,8,2.0429945,0.5974277,2.0154028,0.1
+DRP Milestone Updates,2,8,2.026674,8.275789,7.418219,2.0
+validate_drp runExample.sh should allow NUMPROC to be set in the env,0,8,1.8774048,1.0626179,1.9192709,0.5
+setup standard aliases for frequently-used measurements,1,8,1.9377067,1.2981702,7.2023716,4.0
+Clean up and stackify matchPessimisticB code,2,8,2.0502448,0.97024643,2.082943,10.0
+Verify the performance of new matchPessimisticB code on selected test fields,8,8,1.8157402,4.475222,12.0184765,15.0
+Add jointcal to lsst_distrib,2,8,2.0127113,3.2263842,2.4758422,1.0
+re-separate python Storage & cpp Storage,6,8,1.888947,10.87392,8.970521,1.0
+difficulty bringing up jenkins slaves in us-east-1,2,8,1.8246193,1.455522,3.2268093,0.125
+Add stat table usage options to mysql config file,1,8,1.8931164,1.1905077,2.3272874,1.0
+astshim fails to build on linux,1,5,2.007483,0.2728128,2.161598,2.0
+Please enable py3 by default in Jenkins,1,8,2.027438,0.6016648,1.9759107,1.5
+Detailed documentation for meas_base tasks,3,8,2.0165012,2.885057,3.4802136,2.0
+"Please add ""astshim"" to JIRA components",0,2,2.1011562,1.0553018,1.7808464,0.01
+butlerProxy test does not clean up after itself properly.,2,5,2.062623,1.6223803,2.5604985,1.0
+remove buildbot references from developer guide,1,8,2.0078983,-0.5273123,1.9655704,0.125
+Port uservice-ccutter to uwsgi,2,80,1.988592,1.20294,5.464239,1.0
+SOURCE_IO_NO_FOOTPRINTS and related enums should be properly wrapped in pybind11,1,8,1.8748485,0.75443536,1.8242246,0.5
+Suspicious numerical precision code in Angle,4,8,1.9938971,5.8634367,2.8811066,1.0
+"Provide SLAC information on image cutout, reference IRSA existing practice",2,8,1.7650322,2.9406667,6.47314,3.0
+Documentation audit and cleanup for meas_base plugins,2,8,1.9790422,2.739335,7.9935718,2.0
+"Header ""Help"" drop-down should open new browser window",2,8,1.9532454,0.84060264,1.9605678,1.0
+Create NMF deblender presentation,5,80,1.989133,3.1227033,4.812751,3.0
+Install Kubernetes at CC-IN2P3,10,80,1.8783971,0.9649068,2.502882,10.0
+jenkins qadb-dump job broken by new large hsc measurement results,0,5,1.6655006,3.5788367,4.494204,0.25
+Relieve LTD Mason of setting S3 object ACLs,2,8,1.9820069,3.7714138,6.794189,0.8
+add base class for measurement tasks,2,8,1.9979057,5.0225058,4.631922,1.0
+Port ACL handling changes to LTD Conveyor,4,8,1.876222,2.0232816,2.930346,0.3
+Disable LDM in cookiecutter API service,1,5,1.9957939,2.3590727,3.356194,1.0
+Improve documentation of processing example data sets with validate_drp,0,8,1.8841121,2.7776587,6.569303,0.5
+Implement test for overlapping galaxies,6,8,1.8953196,5.78654,5.7069745,5.0
+remove ctrl_events from lsst_py3,0,8,1.9798933,0.048836138,1.7897953,0.5
+Investigate pybind11 build size,4,8,1.9429439,4.337311,7.2236447,4.0
+Publish Python API doc (firefly_client) and JSDoc to lsst.io,2,8,1.8160025,1.5519682,5.850995,6.0
+Add C++11 features to afw primitives,4,80,1.9572796,3.1507206,4.1527834,40.0
+pipelines.lsst.io v13 needs some fixes,2,8,2.0119138,1.4651821,4.5624094,1.0
+Add FunctorKey to replace Coord compound keys,4,8,2.0841954,1.3645602,5.440512,1.0
+Items missing from the pybind11 wrapping guide,2,13,1.8288662,0.33796555,7.3764887,1.0
+Mapping::getInverse not exception-safe,2,5,1.845082,1.7581975,4.415167,2.0
+Port HSC artifact rejection code,4,8,2.1615422,2.625864,5.676373,4.0
+Pass both LSST_LIBRARY_PATH and DYLD_LIBRARY_PATH in scons on Mac OS,0,8,1.7965636,0.2060803,1.8419278,2.0
+CModel priors are weighted incorrectly relative to likelihood,1,8,1.9103247,2.4121299,2.6387205,2.0
+esutil HTM module broken with latest Python/NumPy,0,8,1.965568,0.411442,1.8907359,1.0
+Investigate HSC-Y background configs,4,8,1.9273978,4.140814,6.3983326,2.0
+Remove superfluous print message,1,2,2.1884212,1.2705822,2.2404742,1.0
+Learn to run meas_mosaic with HSC data ,6,8,1.9367594,2.3742585,1.9304171,3.0
+clean up isr utility code,2,8,2.0068953,1.3604927,5.39454,2.0
+convert measurement algorithms in ip_diffim,12,80,1.9168351,6.4851265,2.6191,5.0
+Define the steps and configs for reprocessing the HSC PDR1 data on lsstvc,2,800,1.7633764,7.951458,11.81316,2.0
+Doxygen warnings in astshim,1,5,1.8850363,0.6265007,2.2235954,0.25
+Update base docker images for alert stream,1,8,1.9815878,2.8220088,2.1844957,2.0
+Multi-object search in PDAC,25,80,1.9084166,7.2427583,4.5011215,10.0
+Port meas_extensions_ngmix to new pybind11 interface,4,40,1.9271895,2.3387551,1.6678019,2.0
+validate_drp failing trying to build master branch of starlink_ast,1,8,1.8540447,0.9798424,1.7464999,0.25
+update lsstsw/newinstall to EUPS 2.1.2,1,8,1.9757321,0.6518597,1.7424492,0.25
+astshim does not build on Ubuntu,1,5,1.9331132,0.07828345,2.6909037,1.0
+Convert existing microservices to apikit 0.1.1 logger,6,8,1.8874568,7.615195,4.4010735,4.0
+convert measurement algorithms in meas_extensions_shapeHSM,10,40,1.7945741,4.077956,2.0206308,3.0
+Make PSFEx oversampling configurable,2,8,1.8458446,3.730463,2.396494,1.0
+Add 1.3 arcsec target seeing for convolved flux measurement,0,5,1.8028729,4.692458,3.1182547,1.0
+Clean up outputs from CharacterizeImageTask and CalibrateTask,2,8,1.751144,3.146748,2.6580179,2.0
+Investigate pybind11 mixed gcc version segfault (potential ABI problem),6,8,1.8521166,4.7467203,7.558603,2.0
+Investigate pybind11 base class data member exposure from derived,4,8,1.8389782,5.3980103,5.7808123,1.0
+Temporarily mitigate loss of docs.scipy.org from blocking pipelines.lsst.io and developer.lsst.io builds,2,8,1.8535136,1.564108,3.82715,0.2
+Evaluate Plotly.js as a replacement to Highcharts,10,80,1.7883047,5.1248307,3.0563865,8.0
+Doxygen tries to parse pybind11 wrappers,1,8,1.9518367,2.016643,2.1773849,2.0
+Design dochub-prototype (www.lsst.io builder),8,80,1.8307449,3.0057495,5.42752,1.0
+convert meas_extensions_photometryKron to new measurement framework,4,40,1.8927363,5.782141,1.685255,3.0
+Nebula VM network unresponsive (es-3.lsst.codes),1,5,1.7950934,4.5952473,9.843306,0.5
+"Nebula VM Filesystem I/O problem (logging.lsst.codes es-[1-4,6].lsst.codes)",4,13,1.7711111,3.1886997,2.4453702,0.5
+Add hasTranForward and hasTranInverse to Transform,2,8,1.714394,3.4656677,2.3793607,2.0
+Enable rectangular binSizes in SubtractBackgroundTask,2,8,1.9736338,3.6066582,3.3528428,2.0
+validate_drp broken on decam dataset as of 03/15,1,8,1.8611706,1.3571218,2.160595,2.0
+Finish the Log packaging,4,8,2.108926,6.423595,6.3435,6.0
+Ad-hoc issues with deployed services,8,8,1.8441854,5.7168255,3.270066,3.0
+Cleanup and unify star selector call signatures,1,8,2.01082,1.0142313,9.234738,40.0
+Create new sourceSelector BaseClass,4,8,2.1067362,2.6438458,5.0254445,4.0
+Create new starSelector BaseClass,3,5,2.0402024,2.7364945,5.0254445,4.0
+Refactor astrometrySourceSelector to new BaseClass,4,8,1.8450129,4.3395514,4.2011423,5.0
+Refactor matcherSourceSelector to new BaseClass,4,8,1.7364671,3.4289732,4.2011423,5.0
+Refactor  meas_astrom/catalogStarSelector to new BaseClass,4,8,1.8524023,2.882023,1.6813035,5.0
+Refactor ip_diffim/diaCatalogSourceSelector to new BaseClass,4,8,1.9022816,1.8225394,1.7459335,5.0
+Refactor meas_modelfit/S13StarSelector to new BaseClass,2,8,1.7712947,2.772964,1.633716,5.0
+allow partial measurement results to be set when error flag is set,2,8,1.9211978,0.9911872,4.704976,2.0
+Refactor meas_extenstions/psfexStarSelector to new BaseClass,4,8,1.8759557,2.4253614,1.6164639,5.0
+Refactor meas_algorithms/flaggedStarSelector to new BaseClass,4,8,1.8701524,2.8395393,1.6795981,5.0
+Refactor  meas_algorithms/secondMomentStarSelector to new BaseClass,3,8,1.8691148,2.4731693,1.725582,5.0
+Update firefly_client to handle variations in base URL,1,8,2.014243,0.9052099,1.8148445,4.0
+Engineer and document a technote deprecation process,10,8,1.8452245,19.769207,5.6993294,0.2
+Improve handling of error messages,7,8,2.0574634,2.4119663,3.5306323,1.0
+Prototype TravisCI Flake8 linting using DM Python Guidelines,2,8,1.6455561,9.423508,13.78233,6.0
+obs_subaru test failures possibly related to daf_persistence,3,8,1.886072,1.0978904,1.8054861,1.0
+Create a Name class for semantic metric and specification name handling,5,8,1.8501122,3.957317,3.7874484,3.3
+Improve DCR code use of the butler,4,8,1.8615432,4.546937,8.2766285,2.0
+Define DCR matched template data type,2,8,2.001078,4.715927,4.7697263,6.0
+Clean up makeVisitInfo docstring,1,2,2.1533055,-0.06806989,2.5250354,0.25
+Select images for coadd based on PSF quality.,6,8,1.956864,3.9961343,4.0903864,6.0
+Add option to deblender to turn off smoothing.,4,8,1.9631244,2.3155959,1.8950065,4.0
+Research Support of Evaluation of Plotly as a replacement to Highchartts,6,8,1.705567,4.6858554,2.8276837,8.0
+Planned Meetings - March,5,5,1.8511213,2.6329765,7.4574785,4.0
+Planned Meetings - April,3,5,1.8398048,2.440755,7.4574785,1.0
+Update meas_mosaic's wcs/fcr output files to reflect LSST coordinate system,2,80,1.8955959,2.451611,1.5918244,3.0
+Replace use of makeVisitInfo(... with VisitInfo(...),2,2,1.8533922,1.8193294,9.472078,0.5
+Preparation for the Python in Astronomy talk,5,8,1.893727,3.9160101,9.98736,6.0
+Implement MVP for DocHubProto,40,80,1.9807801,16.439907,6.34895,4.0
+Make change to remove flagDecorator (RFC-302),1,5,1.9325298,1.8391052,1.7914509,1.0
+Set up development environment on NCSA OpenStack,5,8,1.927451,3.7175448,4.9770813,10.0
+increase EC2 EBS allocation limit,0,8,1.9972334,2.0552206,7.418219,0.125
+Add guidelines for useful stringification to DM Pybind11 Style Guide,0,8,1.7437721,0.4846452,3.125668,0.1
+Move wcs and fcr datasets out of {pointing} directory in obs_subaru,1,8,1.8745155,1.5848871,2.2369921,0.5
+Validation of obs_comcam,6,8,1.8698496,5.4442444,4.6939497,10.0
+PropertySet does not support values of None,1,5,1.8860594,0.6500013,3.660511,3.0
+Mitigation for memory issues on Kubernetes,5,80,1.9365551,1.516497,3.246398,2.0
+Refactor existing validate_base specification into a ThresholdSpecification,2,8,1.8698963,5.1083236,2.9831498,1.25
+Work on DM internal risk process,10,8,1.8663642,14.457769,9.961851,4.0
+validate_base coding style and unittest cleanups,1,8,1.9679607,3.6769178,4.041953,0.4
+Add integrate interface to BoundedField/ChebyshevBoundedField,4,8,1.9154779,9.906353,2.1092625,8.0
+Rename deepCoadd_srcMatch as deepCoadd_measMatch,2,5,1.8302349,0.7464404,1.8820829,1.0
+Document plan for HSC PDR1 on LSSTVC,2,8,1.6860621,2.9195793,2.4581902,2.0
+Wrap meas_mosaic with pybind11 instead of swig,2,8,1.9454025,3.354632,1.9559325,4.0
+Research database options to support table display functions,3,8,1.8745828,7.243074,3.9900706,6.0
+makeWcs does not round-trip equinox and CoordSystem,2,8,1.752676,2.0538533,4.9070005,1.0
+.my.cnf in user HOME directory breaks setup script,0,5,2.0103474,0.40950412,5.3636856,2.0
+Supertask Working Group,15,13,1.7775971,18.512987,7.9810667,23.0
+Render index HTML page for www.lsst.io,2,5,1.8272642,1.1999977,2.7902005,1.0
+DM System Engineer documentation support,5,8,2.020189,10.186163,12.1761,30.0
+Write SQuaRE User Stories for SuperTask,3,13,2.0052347,5.751088,4.227073,1.0
+SQuaRE SuperTask Collaboration Week of 2017-03-20,6,13,1.7403606,3.7700384,4.110439,1.0
+FrameSet frames not preserved by Transform(frameSet) constructor,4,8,1.8207785,1.6983329,2.8373947,2.0
+Add checks of bibtex files in lsst-texmf package,0,8,1.9205052,0.60073954,2.0911763,0.5
+conda channel errors causing lsstsw/bin/deploy to fail,1,8,1.8832132,-0.024853028,1.9234004,3.0
+FrameSet.permAxes will fail if nIn != nOut,1,5,1.7545841,1.4511662,2.1133828,0.25
+Recreate DCR simulation images for testing,4,8,1.8142776,10.151955,6.378089,2.0
+TanWcs::rotateImageBy90 and flipImage do not transform SIP terms,1,8,1.6812075,3.4078908,6.5232134,2.0
+Provide minimum example to reproduce the safari>=10.1 bug with bokeh server,2,8,1.8496128,3.7096648,11.898333,0.5
+Replace referer in the HTTP Request header by a cookie,6,8,1.9894799,2.0980258,6.7438617,3.2
+butler is unable to read data that exists in the registry,1,8,1.8396848,1.3664302,2.5865526,1.0
+hsc cat format change breaks processing of validation_data_hsc,1,8,1.7017313,0.7111513,2.000318,2.0
+add query involving a blob to the integration tests,3,5,1.6909888,4.483124,5.146435,2.0
+"Update validation_data_cfht,decam,hsc to 13.0 release processing.",3,80,1.9016922,2.2647467,1.9023491,1.0
+Obs_lsstSim defects lay outside image mask,2,8,1.8058206,1.8723466,2.2327602,1.0
+update documentation for use of JIRA in locking down /datasets,0,8,1.859918,0.8037081,2.23142,1.0
+Rebuild in ERROR Nebula Instance (lfr.lsst.codes),3,80,1.7381784,2.033497,1.914407,3.0
+Re-write internal DCR template wcs-matching,5,8,2.0088985,2.548584,3.4117122,3.0
+Add a callback to cameraGeom.showCamera,2,8,1.8809736,4.7924776,3.5015352,1.0
+Document recommended flake8 exclusions,1,2,2.0070386,1.9146426,3.885045,0.2
+The catalog search in IRSAViewer does not work for multi-object search ,1,8,1.694945,5.548601,2.0187833,2.0
+Uploader for dochub-prototype HTML to LSST the Docs,5,8,1.9792092,1.5137594,3.809838,2.0
+Support of production-deployed services,42,8,1.8701751,8.474709,4.2363997,30.0
+13.0 documentation,13,8,2.1505895,5.661605,8.101141,4.0
+PolyTran should not provide an iterative inverse by default,1,5,1.9999015,1.5760906,1.9796679,1.0
+Upgrade pybind11 version to upstream v2.1.0,2,8,1.8278826,2.3938339,4.3147497,0.5
+Output debug and info messages to log file.,3,2,2.0249577,2.8573098,1.8500375,12.0
+Design and prototype API v1 for ImageServ (including cutouts),20,80,1.8537058,11.281593,11.357414,18.0
+improve message from qserv_testdata,1,5,2.0141604,1.3707919,4.8567944,1.0
+Switch font in LSST latex class to closely match project standard,0,8,1.9174545,1.3171847,2.1454298,0.5
+"Add dependency of ""refcat"" on ""preSfm"" in ci_hsc",0,2,1.8168577,0.86318666,1.6035333,1.0
+Make afw classes RFC-209 compliant,4,80,1.9440616,1.7791132,2.401165,6.0
+Add C++11 inheritance safeguards to afw,2,8,1.8660874,4.566187,4.146537,6.0
+Recover from the recent CameraMapper changes and refcat changes,5,80,1.7529329,2.3551908,3.9434726,5.0
+Replace deprecated C++98 coding patterns in afw,2,80,1.7973577,2.5551186,3.8282104,9.0
+Make some afw types usable in compile-time expressions,4,80,1.8714682,1.3352888,3.2006936,8.0
+Add noexcept specifiers to applicable methods in afw,2,8,1.8322495,1.2856905,2.1175861,3.0
+Make some afw types hashable,2,5,1.8319354,1.8349221,5.8131895,9.0
+Stop transposing data in Mapping.tranForward and tranInverse,1,8,1.863271,6.968696,5.2356157,6.0
+make slot config validation more intelligent,4,8,1.9427407,1.9613316,2.095086,1.0
+Simplify package dependencies of template generation,2,8,1.9770741,3.6649804,2.8505602,3.0
+Support change controlled documents in LSST DM Latex class,0,8,1.8418994,2.9424202,2.9409544,0.5
+Plotly Change: Create Plotly loading infrastructure and React wrapper ,15,80,1.7740558,3.8652036,4.4089885,3.0
+Create plotly version of histogram chart,6,8,1.9423617,4.259286,4.9578795,16.0
+Create plotly version of scatter and density charts,6,0,1.9384872,4.587936,6.8735304,24.0
+Design and create a multiple plot component based on Plotly,6,8,1.8484195,4.802842,9.581047,16.0
+UI for WISE data search,14,8,1.9261483,5.660578,4.9450574,14.0
+LSST catalog search processor,20,420,2.0720174,13.245153,6.4647174,8.0
+Update the PDAC sample queries and test cases page,2,8,1.9162055,3.848627,2.2554343,2.0
+Make NoiseReplacer a context manager,2,8,1.9731113,2.2632954,3.0197816,1.0
+Add FittedStar measurementCount increment/decrement method/operator,2,8,1.8316188,2.6779203,2.5332446,1.0
+Pixels rejected from coaddition and CCD are not masked on coadds,4,8,1.6299602,3.705505,2.0276866,4.0
+Optimize PSF convolution to use sparse matrices,6,13,1.9546633,4.7108145,4.237459,2.0
+Investigate building stack on CentOS7 with devtoolset-6,2,8,1.8467079,0.8949132,1.93615,0.5
+Add test for difference of overlap between objects ,1,5,1.9033649,3.5302987,5.260596,3.0
+Test NMF deblender performance,8,8,1.8503331,6.339951,2.934232,18.0
+SQuaRE SuperTask Collaboration Week of 2017-03-13,6,13,1.726277,4.0255823,4.110439,1.0
+SQuaRE SuperTask Collaboration Week of 2017-03-27,6,13,1.7541344,3.560855,4.110439,1.0
+Create wrapper install packages for libffi and cffi,1,8,1.8535838,1.5010312,5.538835,1.0
+Add treecorr to validate_drp and lsst_ci dependencies,0,8,1.8214275,1.2869217,1.9366801,3.0
+Write proposal for storing coadd HeavyFootprints,3,80,2.147449,5.9093924,4.2440805,2.0
+Failed CameraMapper searches for registries should be reported at DEBUG level,1,5,1.7651848,2.8784165,2.1121979,0.5
+Change LSSTCatalogSearch 's behavior to the same as IRSA's catalog search,4,8,1.638436,1.9969747,2.631608,1.0
+Fix bug in monotonicity operator,2,5,1.9593126,0.5349535,2.1024094,1.0
+Recommend that TODO comments link to Jira,0,8,1.9381994,0.62271446,2.834806,1.0
+ctrl_pool should not accept a default for --time on real batch systems,0,8,1.8929185,1.3530531,1.743298,1.0
+Add eupspkg build for igprof,3,8,2.0075197,1.2401819,4.126769,1.0
+Provide input from DRP to O'Mullane April 2017 AMCL presentation,1,8,1.8754144,4.1079936,3.945061,1.0
+Fix Composite Policy Docs,2,8,1.9976529,1.2946403,2.2202005,1.0
+Butler policy error checking,6,8,1.9014608,1.8044603,2.9698763,4.0
+support Butler.getKeys for composite datasets,1,8,1.8943182,5.8536415,4.108176,8.0
+Port LDM-151 to new latex style,0,8,1.9585474,2.1765823,3.8755205,0.5
+Add iterative deep detection to LDM-151,10,8,1.8607081,3.9776635,5.039706,2.0
+Copy the HSC calibs 20170105 to /datasets/hsc/calib,1,8,1.851018,1.0608784,3.7033687,0.5
+Redesign afw::math::Statistics,8,80,1.8528953,3.075173,7.846495,10.0
+Adapt integration test to multi-node setup v1,8,8,2.0364306,4.6568713,3.9612615,10.0
+Handle the case of metrics that don't have a diagnostic plot,4,8,1.8427953,3.2459753,2.0657709,1.4
+Jupyterlab-based stack environment prototype,20,80,1.9443842,6.142703,7.2732167,30.0
+Create Donut Fit visualization scripts,4,80,2.0714724,2.9601188,5.4543023,10.0
+Fit/characterize all the donuts,3,80,1.8593795,3.1963665,6.231532,14.0
+Incorporate ZOGY and A&L decorrelation option into imageDifference.py,8,8,1.7283711,2.4587097,7.6932263,40.0
+rename config file(s) in Qserv,2,8,2.0090945,1.7466176,3.4604053,1.0
+Provide functional obs_ctio0m9,2,8,1.9084464,1.4725751,2.8278856,2.0
+Provide CTIO 0.9m data in NCSA,3,8,1.8620242,2.6322799,10.40934,1.0
+Prepare presentation on crowded field processing,3,8,1.9065939,5.6567793,3.8166149,2.0
+Become familiar with AuxTel pipeline prototype,10,8,2.0319924,5.7271795,5.075713,10.0
+Develop DM requirements for processing crowded fields,3,8,1.872534,4.7577085,4.2034407,20.0
+Review SpanSet & Footprint API,4,8,2.0786324,2.0305727,3.0376172,2.0
+Investigate using both monotonicity and symmetry,6,8,1.8682879,9.55265,5.119011,4.0
+Enable fake sources on coadds,4,8,1.9442904,1.5939322,4.252365,6.0
+Review literature on CModel,5,8,1.936936,2.6996505,3.569947,2.0

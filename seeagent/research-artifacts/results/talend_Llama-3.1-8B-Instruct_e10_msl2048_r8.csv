@@ -1,0 +1,166 @@
+task_id,correct_answer,llm_answer,llm_response,matched
+labels of Analysis subcategory are improperly handled,5.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+labels of Analysis subcategory are improperly handled<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5<|eot_id|>",False
+Checking datamart will get error on Dev environment console,8.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Checking datamart will get error on Dev environment console<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5<|eot_id|>",False
+remove the dialog when change the name of connection and change refresh mode.,8.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+remove the dialog when change the name of connection and change refresh mode.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8<|eot_id|>",False
+Unreadable parameters in UDI,3.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Unreadable parameters in UDI<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5<|eot_id|>",False
+add generate job menu in the result chart of column set analysis,5.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+add generate job menu in the result chart of column set analysis<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8<|eot_id|>",False
+Code refactoring 2: the save method of sql source file & jrxml tempate - Do it only on trunk (5.2),13.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Code refactoring 2: the save method of sql source file & jrxml tempate - Do it only on trunk (5.2)<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8<|eot_id|>",False
+for mssql all the catalogs get the same schemas when  doesn't set the database filter,13.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+for mssql all the catalogs get the same schemas when  doesn't set the database filter<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8<|eot_id|>",False
+TableSelectionDialog can not dependency DQRepositoryNode.,5.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+TableSelectionDialog can not dependency DQRepositoryNode.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8<|eot_id|>",False
+the result page should better change the catalog name to certain UDI name,1.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+the result page should better change the catalog name to certain UDI name<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8<|eot_id|>",False
+so many warning show in error log when reload the connection setting,3.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+so many warning show in error log when reload the connection setting<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5<|eot_id|>",False
+"for mdm analysis in java engine can not get the row count, null count  successfully for record which contains null value.",13.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+for mdm analysis in java engine can not get the row count, null count  successfully for record which contains null value.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5<|eot_id|>",False
+Allow scroll down and copy/paste of the error in tmatchgroup,1.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Allow scroll down and copy/paste of the error in tmatchgroup<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8<|eot_id|>",False
+Remove two columns in frequency tables,8.0,1,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Remove two columns in frequency tables<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 1<|eot_id|>",False
+handle org.talend.dqdemos,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+handle org.talend.dqdemos<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8<|eot_id|>",False
+Create a project to check the integrity of the DQ datamart,20.0,40,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Create a project to check the integrity of the DQ datamart<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 40<|eot_id|>",False

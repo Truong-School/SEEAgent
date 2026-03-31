@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+} */
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Markdown Styles */
+.markdown h1 {
+  @apply text-3xl font-bold mb-4 mt-6;
+}
+
+.markdown h2 {
+  @apply text-2xl font-bold mb-3 mt-5 border-b pb-1;
+}
+
+.markdown h3 {
+  @apply text-xl font-semibold mb-2 mt-4;
+}
+
+.markdown h4 {
+  @apply text-lg font-semibold mb-2 mt-3;
+}
+
+.markdown h5 {
+  @apply text-base font-semibold mb-1 mt-2;
+}
+
+.markdown h6 {
+  @apply text-sm font-semibold mb-1 mt-1;
+}
+
+.markdown p {
+  @apply mb-4 leading-relaxed;
+}
+
+.markdown ul,
+.markdown ol {
+  @apply mb-4 pl-6;
+}
+
+.markdown ul {
+  @apply list-disc;
+}
+
+.markdown ol {
+  @apply list-decimal;
+}
+
+.markdown li {
+  @apply mb-2;
+}
+
+.markdown blockquote {
+  @apply border-l-4 border-gray-300 pl-4 italic text-gray-600 mb-4;
+}
+
+.markdown pre {
+  @apply bg-gray-100 p-4 rounded-md overflow-x-auto mb-4;
+  /* Consider adding a syntax highlighting library for better code blocks */
+}
+
+.markdown code {
+  @apply bg-gray-100 px-1 py-0.5 rounded text-sm font-mono;
+}
+
+.markdown pre code {
+  /* Reset inline code styles within pre blocks */
+  @apply bg-transparent p-0 rounded-none text-sm;
+}
+
+.markdown a {
+  @apply text-blue-600 hover:underline;
+}
+
+.markdown strong {
+  @apply font-bold;
+}
+
+.markdown em {
+  @apply italic;
+}
+
+.markdown hr {
+  @apply border-t border-gray-300 my-6;
+}

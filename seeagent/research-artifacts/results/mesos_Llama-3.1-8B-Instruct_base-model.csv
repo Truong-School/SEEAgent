@@ -1,0 +1,1212 @@
+task_id,correct_answer,llm_answer,llm_response,matched
+Health checks should use a general mechanism to enter namespaces of the task.,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Health checks should use a general mechanism to enter namespaces of the task.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Rationale:
+
+",False
+Consider adding a timeout to Docker executor task launch,5.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Consider adding a timeout to Docker executor task launch<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Rationale:
+
+",False
+Add missing fields to agent v1 operator API,2.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Add missing fields to agent v1 operator API<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Leverage helper functions to reduce boilerplate code related to v1 API.,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Leverage helper functions to reduce boilerplate code related to v1 API.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Rationale:
+
+",False
+Look for unnecessary 'Clock::resume()' at the end of tests,2.0,2,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Look for unnecessary 'Clock::resume()' at the end of tests<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 2
+
+Reasoning:
+
+",False
+Non-leading master should reply to some API requests,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Non-leading master should reply to some API requests<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Support multiple health checks per task.,8.0,13,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Support multiple health checks per task.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 13
+
+Rationale:
+
+",False
+Change the auto backend logic of backing filesystem from exclusive to inclusive.,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Change the auto backend logic of backing filesystem from exclusive to inclusive.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Design doc for creating user namespaces inside containers,5.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Design doc for creating user namespaces inside containers<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Here's my",False
+Allow the KillPolicy to specify a signal,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Allow the KillPolicy to specify a signal<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Allow the KillPolicy to specify a command,5.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Allow the KillPolicy to specify a command<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Here's my",False
+"ns::clone should spawn process, which is a direct child",8.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+ns::clone should spawn process, which is a direct child<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Improve completed task/framework garbage collection,5.0,80,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Improve completed task/framework garbage collection<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 80
+
+Reasoning:
+
+",False
+Dump the contents of the sandbox when a test fails,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Dump the contents of the sandbox when a test fails<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Here's my",False
+Provide a generic HTTP driver abstraction,5.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Provide a generic HTTP driver abstraction<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Here's my",False
+Add more filtering options for unversioned operator API,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Add more filtering options for unversioned operator API<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Here's my",False
+Stop using EXIT() in master/agent initialization code,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Stop using EXIT() in master/agent initialization code<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Add support for incremental gzip compression.,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Add support for incremental gzip compression.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Rationale:
+
+",False
+Add upgrade testing to the ASF CI,5.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Add upgrade testing to the ASF CI<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Move some protobuf-related helpers into public headers,3.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Move some protobuf-related helpers into public headers<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5
+
+Reasoning:
+
+",False
+Add support for 'docker image inspect' in our docker abstraction.,5.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Add support for 'docker image inspect' in our docker abstraction.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Rationale:
+
+",False
+Enable the upgrade test script to run multiple masters/agents,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Enable the upgrade test script to run multiple masters/agents<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Here's my",False
+Report per-container metrics from host egress filter,1.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Report per-container metrics from host egress filter<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Here's my",False
+Metric for cpu scheduling latency from all components,8.0,80,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Metric for cpu scheduling latency from all components<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 80
+
+Rationale:
+
+",False
+Move implicit authorization into the authorizer,5.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Move implicit authorization into the authorizer<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Here's my",False
+Docker executor does not support general checks.,5.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Docker executor does not support general checks.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Refactor the clone option to subprocess.,2.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Refactor the clone option to subprocess.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+"Introduce ""global"" decision policy for unhealthy tasks.",8.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Introduce ""global"" decision policy for unhealthy tasks.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Rationale:
+
+",False
+Support health policies in health checks.,8.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Support health policies in health checks.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Launch subprocesses associated with specified namespaces.,8.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Launch subprocesses associated with specified namespaces.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Scheduler library's reconnection logic should be teardown-aware,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Scheduler library's reconnection logic should be teardown-aware<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Rationale:
+
+",False
+Show framework info in /state and /frameworks for frameworks that have orphan tasks,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Show framework info in /state and /frameworks for frameworks that have orphan tasks<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Breakdown of",False
+"Add abstractions of ""owned"" and ""shared"" file descriptors to libprocess.",3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Add abstractions of ""owned"" and ""shared"" file descriptors to libprocess.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Rationale:
+
+",False
+Clean up `FlagsBase::add`,3.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Clean up `FlagsBase::add`<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5
+
+Reasoning:
+
+",False
+Allow Docker v1 ImageManifests to be parsed from the output of `docker inspect`,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Allow Docker v1 ImageManifests to be parsed from the output of `docker inspect`<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Here's my",False
+Enhance DispatchEvent to include demangled method name.,5.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Enhance DispatchEvent to include demangled method name.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Add synchronous validation for all types of Calls.,5.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Add synchronous validation for all types of Calls.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Rationale:
+
+",False
+Use snake casing for flag names consistently,1.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Use snake casing for flag names consistently<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Consider allowing the libprocess caller an option to not set CLOEXEC on libprocess sockets,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Consider allowing the libprocess caller an option to not set CLOEXEC on libprocess sockets<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Example frameworks should allow setting failover timeout,2.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Example frameworks should allow setting failover timeout<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Rationale:
+
+",False
+Enable `Option` to handle string literals gracefully,2.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Enable `Option` to handle string literals gracefully<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Rationale:
+
+",False
+"Add ""chown"" option to CommandInfo.URI",2.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Add ""chown"" option to CommandInfo.URI<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Operator endpoints should accept a principal without HTTP authentication,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Operator endpoints should accept a principal without HTTP authentication<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Expose TaskStatus source & reason in master's '/state' output,1.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Expose TaskStatus source & reason in master's '/state' output<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Breakdown of",False
+Add explicit upgrade instructions to the docs,1.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Add explicit upgrade instructions to the docs<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Update Master to send revocable resources in separate offers,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Update Master to send revocable resources in separate offers<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Breakdown of",False
+Automatically generate command-line flag documentation,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Automatically generate command-line flag documentation<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Here's my",False
+Add an abstraction to manage the life cycle of file descriptors.,5.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Add an abstraction to manage the life cycle of file descriptors.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Rationale:
+
+",False
+Inform framework when rate limiting is active,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Inform framework when rate limiting is active<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Enable mesos-reviewbot project on jenkins to use SSL,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Enable mesos-reviewbot project on jenkins to use SSL<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Breakdown of",False
+Introduce an Either type.,5.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Introduce an Either type.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5
+
+Reasoning:
+
+",False
+Rename ResourceStatistics for containers,8.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Rename ResourceStatistics for containers<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Cleanup stout build setup,3.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Cleanup stout build setup<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5
+
+Reasoning:
+
+",False
+Support pre-fetching images,5.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Support pre-fetching images<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+### Breakdown",False
+Have fine grained control over OpenSSL dependency.,3.0,80,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Have fine grained control over OpenSSL dependency.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 80
+
+Rationale:
+
+",False
+Only send ShutdownFrameworkMessage to agents associated with framework.,1.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Only send ShutdownFrameworkMessage to agents associated with framework.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5
+
+Reasoning:
+
+",False
+Deprecate Role::resources in favor of Role::allocated and Role::offered.,2.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Deprecate Role::resources in favor of Role::allocated and Role::offered.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Allow for optionally unbundled glog from CMake builds. ,2.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Allow for optionally unbundled glog from CMake builds.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Allow for optionally unbundled protobuf from CMake builds.,2.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Allow for optionally unbundled protobuf from CMake builds.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Rework FindPackageHelper to allow for locating xxx_ROOT_DIR.,2.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Rework FindPackageHelper to allow for locating xxx_ROOT_DIR.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Allow for optionally unbundled ZooKeeper from CMake builds.,2.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Allow for optionally unbundled ZooKeeper from CMake builds.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+"Refactor the ""_ROOT_DIR"" logic into FindPackageHelper for CMake.",2.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Refactor the ""_ROOT_DIR"" logic into FindPackageHelper for CMake.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Refactor master's 'updateOperation()' to not accept an update message,3.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Refactor master's 'updateOperation()' to not accept an update message<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5
+
+Reasoning:
+
+",False
+Command health checks ignore some fields from CommandInfo.,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Command health checks ignore some fields from CommandInfo.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Disallow empty string roles,3.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Disallow empty string roles<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5
+
+Reasoning:
+
+",False
+Auto-generate protos for stout tests,2.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Auto-generate protos for stout tests<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Remove plain text Credential format (after deprecation cycle),3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Remove plain text Credential format (after deprecation cycle)<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Follow Google Style Guide for header file include order completely.,5.0,2,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Follow Google Style Guide for header file include order completely.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 2
+
+Reasoning:
+
+",False
+Standardize use of Path ,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Standardize use of Path<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Rationale:
+
+",False
+Expose Check and HealthCheck information on Mesos HTTP endpoints.,2.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Expose Check and HealthCheck information on Mesos HTTP endpoints.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Delimiters in endpoint names are inconsistent across mesos components.,3.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Delimiters in endpoint names are inconsistent across mesos components.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5
+
+Reasoning:
+
+",False
+Linux launcher may report `Failed to clone: Success` on error.,1.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Linux launcher may report `Failed to clone: Success` on error.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5
+
+Reasoning:
+
+",False
+Move SASL based CRAM-MD5 authentication out of libmesos.,8.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Move SASL based CRAM-MD5 authentication out of libmesos.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Expose metrics and gauges for fetcher cache usage and hit rate,2.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Expose metrics and gauges for fetcher cache usage and hit rate<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Breakdown:
+
+",False
+Consolidate functionality in stout/net and process/http,8.0,80,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Consolidate functionality in stout/net and process/http<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 80
+
+Rationale:
+
+",False
+Use `Connection` abstraction to compare stale connections in scheduler library.,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Use `Connection` abstraction to compare stale connections in scheduler library.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Here's my",False
+Fetch checksum files to inform fetcher cache use,3.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Fetch checksum files to inform fetcher cache use<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5
+
+Reasoning:
+
+",False
+HTTP auth for CLI,3.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+HTTP auth for CLI<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5
+
+Reasoning:
+
+",False
+Refactor the plain JSON parsing in the docker containerizer,3.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Refactor the plain JSON parsing in the docker containerizer<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Reasoning:
+
+",False
+Add `EXPECT_NO_FUTURE_DISPATCHES` macro for tests.,1.0,2,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Add `EXPECT_NO_FUTURE_DISPATCHES` macro for tests.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 2
+
+Reasoning:
+
+",False
+Agent logs should be accesible with the `/agent/log` path.,1.0,5,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Agent logs should be accesible with the `/agent/log` path.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 5
+
+Reasoning:
+
+",False
+Add '{' on newline for function declarations in style checker,1.0,8,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Add '{' on newline for function declarations in style checker<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 8
+
+Breakdown of",False
+Use `std::quoted` for strings in error messages,3.0,2,"<|begin_of_text|><|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert software development effort estimator. Given a software development issue summary, predict the effort in story points.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+### Summary:
+Use `std::quoted` for strings in error messages<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+My estimated story point is: 2
+
+Reasoning:
+
+",False
